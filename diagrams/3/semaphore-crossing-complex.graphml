@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <data key="gFormat">Cyberiada-GraphML-1.0</data>
+  <key id="gFormat" for="graphml" attr.name="format" attr.type="string"/>
+  <key id="dName" for="graph" attr.name="name" attr.type="string"/>
+  <key id="dName" for="node" attr.name="name" attr.type="string"/>
+  <key id="dStateMachine" for="graph" attr.name="stateMachine" attr.type="string"/>
+  <key id="dRegion" for="graph" attr.name="region" attr.type="string"/>
+  <key id="dSubmachineState" for="node" attr.name="submachineState" attr.type="string"/>
+  <key id="dGeometry" for="graph" attr.name="geometry"/>
+  <key id="dGeometry" for="node" attr.name="geometry"/>
+  <key id="dGeometry" for="edge" attr.name="geometry"/>
+  <key id="dSourcePoint" for="edge" attr.name="sourcePoint"/>
+  <key id="dTargetPoint" for="edge" attr.name="targetPoint"/>
+  <key id="dLabelGeometry" for="edge" attr.name="labelGeometry"/>
+  <key id="dNote" for="node" attr.name="note" attr.type="string"/>
+  <key id="dVertex" for="node" attr.name="vertex" attr.type="string"/>
+  <key id="dData" for="node" attr.name="data" attr.type="string"/>
+  <key id="dData" for="edge" attr.name="data" attr.type="string"/>
+  <key id="dPivot" for="edge" attr.name="pivot" attr.type="string"/>
+  <key id="dChunk" for="edge" attr.name="chunk" attr.type="string"/>
+  <key id="dCollapsed" for="node" attr.name="collapsed" attr.type="string"/>
+  <key id="dMarkup" for="node" attr.name="markup" attr.type="string"/>
+  <key id="dColor" for="node" attr.name="color" attr.type="string"/>
+  <key id="dColor" for="edge" attr.name="color" attr.type="string"/>
+  <key id="dFormalName" for="graph" attr.name="formalName" attr.type="string"/>
+  <key id="dFormalName" for="node" attr.name="formalName" attr.type="string"/>
+  <graph id="G0" edgedefault="directed">
+    <data key="dStateMachine"/>
+    <data key="dName">Сложный светофор с переходом</data>
+    <data key="dGeometry">
+      <rect x="-1269.000000" y="-744.000000" width="1402.624008" height="803.812651"/>
+    </data>
+    <node id="nMeta">
+      <data key="dNote">formal</data>
+      <data key="dName">CGML_META</data>
+      <data key="dData">standardVersion/ 1.0
+
+cyberiadaEditorView/ 0.785787 -1300 -681
+
+geometry/ full
+
+transitionOrder/ actionFirst
+
+eventPropagation/ block</data>
+    </node>
+    <node id="n5">
+      <data key="dName">Движение машин</data>
+      <data key="dData">entry/
+свет_авто(ЗЕЛ)
+свет_пешеход(КРАСН)
+
+exit/
+свет_авто(КРАСН)
+</data>
+      <data key="dGeometry">
+        <rect x="91.544999" y="72.564094" width="989.108780" height="698.219331"/>
+      </data>
+      <graph id="n5:" edgedefault="directed">
+        <node id="n1">
+          <data key="dName">Ожидание нажатия</data>
+          <data key="dGeometry">
+            <rect x="87.500000" y="97.960474" width="231.000000" height="104.000000"/>
+          </data>
+        </node>
+        <node id="n0">
+          <data key="dVertex">initial</data>
+          <data key="dGeometry">
+            <point x="37.492630" y="148.687721"/>
+          </data>
+        </node>
+        <node id="n4">
+          <data key="dName">Ожидание перерыва</data>
+          <data key="dData">entry/
+таймер_стоп()
+</data>
+          <data key="dGeometry">
+            <rect x="421.286094" y="168.946856" width="200.000000" height="100.000000"/>
+          </data>
+        </node>
+        <node id="n2">
+          <data key="dName">Перерыв в работе</data>
+          <data key="dData">entry/
+таймер_запуск(120)
+</data>
+          <data key="dGeometry">
+            <rect x="718.674380" y="102.978189" width="227.000000" height="102.868023"/>
+          </data>
+        </node>
+        <node id="n3">
+          <data key="dName">Переключение светофора</data>
+          <data key="dData">entry/
+таймер_запуск(3)
+
+exit/
+таймер_стоп()
+</data>
+          <data key="dGeometry">
+            <rect x="89.861049" y="329.294951" width="852.161175" height="276.500000"/>
+          </data>
+          <graph id="n3:" edgedefault="directed">
+            <node id="n3::n0">
+              <data key="dName">Зеленый мигает</data>
+              <data key="dData">entry/
+мигать_авто(ЗЕЛ)
+</data>
+              <data key="dGeometry">
+                <rect x="118.000000" y="86.000000" width="200.000000" height="100.000000"/>
+              </data>
+            </node>
+            <node id="n3::n1">
+              <data key="dName">Желтый</data>
+              <data key="dData">entry/
+свет_авто(ЖЕЛ)
+</data>
+              <data key="dGeometry">
+                <rect x="584.405678" y="83.500000" width="200.000000" height="100.000000"/>
+              </data>
+            </node>
+            <node id="n3::n2">
+              <data key="dVertex">initial</data>
+              <data key="dGeometry">
+                <point x="56.173615" y="133.750000"/>
+              </data>
+            </node>
+          </graph>
+        </node>
+      </graph>
+    </node>
+    <node id="n6">
+      <data key="dName">Движение пешеходов</data>
+      <data key="dData">entry/
+свет_пешеход(ЗЕЛ)
+таймер_запуск(20)
+
+exit/
+таймер_стоп()
+</data>
+      <data key="dGeometry">
+        <rect x="1139.729979" y="345.304969" width="227.260960" height="146.718330"/>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="dVertex">initial</data>
+      <data key="dGeometry">
+        <point x="39.659125" y="187.869604"/>
+      </data>
+    </node>
+    <edge id="n3::n0-n3::n1" source="n3::n0" target="n3::n1">
+      <data key="dData">ТАЙМЕР_ИСТЁК/</data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="52.500000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="250.923430" y="35.160975" width="123.500000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n3::n2-n3::n0" source="n3::n2" target="n3::n0">
+      <data key="dTargetPoint">
+        <point x="0.000000" y="47.750000"/>
+      </data>
+    </edge>
+    <edge id="n1-n3" source="n1" target="n3">
+      <data key="dData">КНОПКА_НАЖАТА/</data>
+      <data key="dTargetPoint">
+        <point x="113.138951" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="48.938349" y="158.875000" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2-n1" source="n2" target="n1">
+      <data key="dData">ТАЙМЕР_ИСТЁК/
+таймер_стоп()
+</data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="14.503039"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="231.000000" y="19.520754"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-262.702568" y="-7.359869" width="150.080360" height="46.000000"/>
+      </data>
+    </edge>
+    <edge id="n0-n1" source="n0" target="n1">
+      <data key="dTargetPoint">
+        <point x="0.000000" y="50.729295"/>
+      </data>
+    </edge>
+    <edge id="n2-n4" source="n2" target="n4">
+      <data key="dData">КНОПКА_НАЖАТА/</data>
+      <data key="dGeometry">
+        <point x="115.143156" y="145.538306"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="115.143156" y="102.868023"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="200.000000" y="79.569640"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-52.153732" y="132.828497" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n4-n3" source="n4" target="n3">
+      <data key="dData">ТАЙМЕР_ИСТЁК/</data>
+      <data key="dSourcePoint">
+        <point x="99.999764" y="100.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="431.424808" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="38.249764" y="114.303477" width="123.500000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n6-n2" source="n6" target="n2">
+      <data key="dData">ТАЙМЕР_ИСТЁК/</data>
+      <data key="dGeometry">
+        <point x="115.271315" y="-95.077495"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="115.271315" y="0.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="227.000000" y="51.685191"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-37.553108" y="-108.577495" width="123.500000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n3-n6" source="n3" target="n6">
+      <data key="dData">ТАЙМЕР_ИСТЁК/</data>
+      <data key="dGeometry">
+        <point x="1067.232198" y="139.703000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="852.161175" y="139.703000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="108.908267" y="146.718330"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="924.035183" y="126.839305" width="123.500000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n7-n5" source="n7" target="n5">
+      <data key="dTargetPoint">
+        <point x="0.000000" y="115.305510"/>
+      </data>
+    </edge>
+  </graph>
+</graphml>
