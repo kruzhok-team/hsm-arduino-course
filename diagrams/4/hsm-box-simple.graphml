@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <data key="gFormat">Cyberiada-GraphML-1.0</data>
+  <key id="gFormat" for="graphml" attr.name="format" attr.type="string"/>
+  <key id="dName" for="graph" attr.name="name" attr.type="string"/>
+  <key id="dName" for="node" attr.name="name" attr.type="string"/>
+  <key id="dStateMachine" for="graph" attr.name="stateMachine" attr.type="string"/>
+  <key id="dRegion" for="graph" attr.name="region" attr.type="string"/>
+  <key id="dSubmachineState" for="node" attr.name="submachineState" attr.type="string"/>
+  <key id="dGeometry" for="graph" attr.name="geometry"/>
+  <key id="dGeometry" for="node" attr.name="geometry"/>
+  <key id="dGeometry" for="edge" attr.name="geometry"/>
+  <key id="dSourcePoint" for="edge" attr.name="sourcePoint"/>
+  <key id="dTargetPoint" for="edge" attr.name="targetPoint"/>
+  <key id="dLabelGeometry" for="edge" attr.name="labelGeometry"/>
+  <key id="dNote" for="node" attr.name="note" attr.type="string"/>
+  <key id="dVertex" for="node" attr.name="vertex" attr.type="string"/>
+  <key id="dData" for="node" attr.name="data" attr.type="string"/>
+  <key id="dData" for="edge" attr.name="data" attr.type="string"/>
+  <key id="dPivot" for="edge" attr.name="pivot" attr.type="string"/>
+  <key id="dChunk" for="edge" attr.name="chunk" attr.type="string"/>
+  <key id="dCollapsed" for="node" attr.name="collapsed" attr.type="string"/>
+  <key id="dMarkup" for="node" attr.name="markup" attr.type="string"/>
+  <key id="dColor" for="node" attr.name="color" attr.type="string"/>
+  <key id="dColor" for="edge" attr.name="color" attr.type="string"/>
+  <key id="dFormalName" for="graph" attr.name="formalName" attr.type="string"/>
+  <key id="dFormalName" for="node" attr.name="formalName" attr.type="string"/>
+  <graph id="G0" edgedefault="directed">
+    <data key="dStateMachine"/>
+    <data key="dName">Захват флага</data>
+    <data key="dGeometry">
+      <rect x="-800.000000" y="-525.000000" width="1375.000000" height="975.000000"/>
+    </data>
+    <node id="nMeta">
+      <data key="dNote">formal</data>
+      <data key="dName">CGML_META</data>
+      <data key="dData">standardVersion/ 1.0
+
+cyberiadaEditorView/ 0.916938 -1005 -520
+
+geometry/ full
+
+transitionOrder/ actionFirst
+
+eventPropagation/ block</data>
+    </node>
+    <node id="n0">
+      <data key="dName">Ожидание старта</data>
+      <data key="dGeometry">
+        <rect x="25.000000" y="100.000000" width="350.000000" height="100.000000"/>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="dName">Игра</data>
+      <data key="dData">entry/
+счетчик_красный_сброс()
+счетчик_зеленый_сброс()
+таймер_старт(3 мин)
+</data>
+      <data key="dGeometry">
+        <rect x="400.000000" y="100.000000" width="950.000000" height="500.000000"/>
+      </data>
+      <graph id="n1:" edgedefault="directed">
+        <node id="n1::n0">
+          <data key="dName">Ждать захвата</data>
+          <data key="dGeometry">
+            <rect x="350.000000" y="144.500000" width="250.000000" height="100.000000"/>
+          </data>
+        </node>
+        <node id="n1::n1">
+          <data key="dName">Красные</data>
+          <data key="dData">entry/
+свет_включить(КРАСН)
+свет_выключить(ЗЕЛ)
+
+ТАЙМЕР_1С/
+счетчик_красный_прибавить(1)
+</data>
+          <data key="dGeometry">
+            <rect x="25.000000" y="269.500000" width="350.000000" height="150.000000"/>
+          </data>
+        </node>
+        <node id="n1::n2">
+          <data key="dName">Зеленые</data>
+          <data key="dData">entry/
+свет_выключить(КРАСН)
+свет_включить(ЗЕЛ)
+
+ТАЙМЕР_1С/
+счетчик_зеленый_прибавить(1)
+</data>
+          <data key="dGeometry">
+            <rect x="575.000000" y="269.500000" width="350.000000" height="150.000000"/>
+          </data>
+        </node>
+        <node id="n1::n3">
+          <data key="dVertex">initial</data>
+          <data key="dGeometry">
+            <point x="475.000000" y="94.500000"/>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n2">
+      <data key="dName">Результаты</data>
+      <data key="dGeometry">
+        <rect x="400.000000" y="650.000000" width="950.000000" height="300.000000"/>
+      </data>
+      <graph id="n2:" edgedefault="directed">
+        <node id="n2::n0">
+          <data key="dVertex">initial</data>
+          <data key="dGeometry">
+            <point x="475.000000" y="48.000000"/>
+          </data>
+        </node>
+        <node id="n2::n1">
+          <data key="dVertex">choice</data>
+          <data key="dGeometry">
+            <rect x="455.000000" y="91.500000" width="40.000000" height="40.000000"/>
+          </data>
+        </node>
+        <node id="n2::n2">
+          <data key="dName">Ничья</data>
+          <data key="dData">entry/
+свет_мигать(КРАСН)
+свет_мигать(ЗЕЛ)
+</data>
+          <data key="dGeometry">
+            <rect x="350.000000" y="161.500000" width="250.000000" height="100.000000"/>
+          </data>
+        </node>
+        <node id="n2::n3">
+          <data key="dName">Красные выиграли</data>
+          <data key="dData">entry/
+свет_мигать(КРАСН)
+свет_выключить(ЗЕЛ)
+</data>
+          <data key="dGeometry">
+            <rect x="75.000000" y="161.500000" width="250.000000" height="100.000000"/>
+          </data>
+        </node>
+        <node id="n2::n4">
+          <data key="dName">Зеленые выиграли</data>
+          <data key="dData">entry/
+свет_мигать(ЗЕЛ)
+свет_выключить(КРАСН)
+</data>
+          <data key="dGeometry">
+            <rect x="625.000000" y="161.500000" width="250.000000" height="100.000000"/>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n3">
+      <data key="dVertex">initial</data>
+      <data key="dGeometry">
+        <point x="200.000000" y="50.000000"/>
+      </data>
+    </node>
+    <edge id="n1::n1-n1::n2" source="n1::n1" target="n1::n2">
+      <data key="dData">КНОПКА_ЗЕЛ/</data>
+      <data key="dSourcePoint">
+        <point x="350.000000" y="100.138021"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="101.242189"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="405.766785" y="104.748770" width="94.625000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n2-n1::n1" source="n1::n2" target="n1::n1">
+      <data key="dData">КНОПКА_КРАСН/</data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="50.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="350.000000" y="50.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-130.053396" y="19.519347" width="75.375000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n3-n0" source="n3" target="n0">
+      <data key="dTargetPoint">
+        <point x="175.000000" y="0.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n3-n1::n0" source="n1::n3" target="n1::n0">
+      <data key="dTargetPoint">
+        <point x="125.000000" y="0.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n0-n1::n1" source="n1::n0" target="n1::n1">
+      <data key="dData">КНОПКА_КРАСН/</data>
+      <data key="dGeometry">
+        <point x="-150.000000" y="50.000000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="50.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="175.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-106.857377" y="21.011364" width="75.375000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n0-n1::n2" source="n1::n0" target="n1::n2">
+      <data key="dData">КНОПКА_ЗЕЛ/</data>
+      <data key="dGeometry">
+        <point x="400.000000" y="49.968609"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="250.000000" y="49.968609"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="175.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="274.551714" y="20.097556" width="94.625000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1-n2" source="n1" target="n2">
+      <data key="dData">ТАЙМЕР_ИСТЁК/</data>
+      <data key="dSourcePoint">
+        <point x="475.000000" y="500.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="475.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="480.671446" y="513.084524" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n0-n2::n1" source="n2::n0" target="n2::n1">
+    </edge>
+    <edge id="n2::n1-n2::n2" source="n2::n1" target="n2::n2">
+      <data key="dData">[else]/</data>
+      <data key="dTargetPoint">
+        <point x="124.781290" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="29.776769" y="40.398084" width="65.750000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n1-n2::n3" source="n2::n1" target="n2::n3">
+      <data key="dData">[счетчик_красный_значение() &gt; счетчик_зеленый_значение()]/</data>
+      <data key="dGeometry">
+        <point x="-254.490562" y="20.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="125.169813" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-302.059299" y="-37.159721" width="297.730054" height="46.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n1-n2::n4" source="n2::n1" target="n2::n4">
+      <data key="dData">[счетчик_зеленый_значение() &gt; счетчик_красный_значение()]/</data>
+      <data key="dGeometry">
+        <point x="295.509438" y="20.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="125.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="59.052073" y="-36.431479" width="308.509503" height="46.000000"/>
+      </data>
+    </edge>
+    <edge id="n0-n1" source="n0" target="n1">
+      <data key="dData">КНОПКА_СТАРТ/</data>
+      <data key="dGeometry">
+        <point x="225.000000" y="250.000000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="225.000000" y="100.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="250.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="232.978620" y="211.082576" width="138.484375" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2-n0" source="n2" target="n0">
+      <data key="dData">КНОПКА_СТАРТ/</data>
+      <data key="dGeometry">
+        <point x="-275.000000" y="150.000000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="150.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="100.000000" y="100.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-184.638747" y="117.787782" width="65.750000" height="27.000000"/>
+      </data>
+    </edge>
+  </graph>
+</graphml>

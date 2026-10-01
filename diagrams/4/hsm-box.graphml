@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <data key="gFormat">Cyberiada-GraphML-1.0</data>
+  <key id="gFormat" for="graphml" attr.name="format" attr.type="string"/>
+  <key id="dName" for="graph" attr.name="name" attr.type="string"/>
+  <key id="dName" for="node" attr.name="name" attr.type="string"/>
+  <key id="dStateMachine" for="graph" attr.name="stateMachine" attr.type="string"/>
+  <key id="dRegion" for="graph" attr.name="region" attr.type="string"/>
+  <key id="dSubmachineState" for="node" attr.name="submachineState" attr.type="string"/>
+  <key id="dGeometry" for="graph" attr.name="geometry"/>
+  <key id="dGeometry" for="node" attr.name="geometry"/>
+  <key id="dGeometry" for="edge" attr.name="geometry"/>
+  <key id="dSourcePoint" for="edge" attr.name="sourcePoint"/>
+  <key id="dTargetPoint" for="edge" attr.name="targetPoint"/>
+  <key id="dLabelGeometry" for="edge" attr.name="labelGeometry"/>
+  <key id="dNote" for="node" attr.name="note" attr.type="string"/>
+  <key id="dVertex" for="node" attr.name="vertex" attr.type="string"/>
+  <key id="dData" for="node" attr.name="data" attr.type="string"/>
+  <key id="dData" for="edge" attr.name="data" attr.type="string"/>
+  <key id="dPivot" for="edge" attr.name="pivot" attr.type="string"/>
+  <key id="dChunk" for="edge" attr.name="chunk" attr.type="string"/>
+  <key id="dCollapsed" for="node" attr.name="collapsed" attr.type="string"/>
+  <key id="dMarkup" for="node" attr.name="markup" attr.type="string"/>
+  <key id="dColor" for="node" attr.name="color" attr.type="string"/>
+  <key id="dColor" for="edge" attr.name="color" attr.type="string"/>
+  <key id="dFormalName" for="graph" attr.name="formalName" attr.type="string"/>
+  <key id="dFormalName" for="node" attr.name="formalName" attr.type="string"/>
+  <graph id="G0" edgedefault="directed">
+    <data key="dStateMachine"/>
+    <data key="dName">The Game Timer Box</data>
+    <data key="dGeometry">
+      <rect x="-800.000000" y="-525.000000" width="1375.000000" height="1125.000000"/>
+    </data>
+    <node id="nMeta">
+      <data key="dNote">formal</data>
+      <data key="dName">CGML_META</data>
+      <data key="dData">standardVersion/ 1.0
+
+cyberiadaEditorView/ 0.916938 -973 -627
+
+geometry/ full
+
+transitionOrder/ actionFirst
+
+eventPropagation/ block</data>
+    </node>
+    <node id="n0">
+      <data key="dName">Setup</data>
+      <data key="dData">entry/
+hal_led_light(PLAYER_RED, 0);
+hal_led_light(PLAYER_GREEN, 0);
+hal_display_setup();
+
+KEY_LEFT [time_mode &gt; 60]/
+time_mode -= 60;
+hal_display_setup();
+
+KEY_RIGHT/
+time_mode += 60;
+hal_display_setup();
+</data>
+      <data key="dGeometry">
+        <rect x="25.000000" y="100.000000" width="350.000000" height="250.000000"/>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="dName">Game</data>
+      <data key="dData">entry/
+red = green = 0;
+hal_timer_start(time_mode);
+hal_display_game();
+</data>
+      <data key="dGeometry">
+        <rect x="400.000000" y="100.000000" width="950.000000" height="550.000000"/>
+      </data>
+      <graph id="n1:" edgedefault="directed">
+        <node id="n1::n0">
+          <data key="dName">Wait</data>
+          <data key="dData">TIMER_1SEC/
+hal_display_game();
+</data>
+          <data key="dGeometry">
+            <rect x="350.000000" y="144.500000" width="250.000000" height="100.000000"/>
+          </data>
+        </node>
+        <node id="n1::n1">
+          <data key="dName">Red</data>
+          <data key="dData">entry/
+hal_led_light(PLAYER_RED, 1);
+hal_led_light(PLAYER_GREEN, 0);
+hal_display_game();
+
+TIMER_1SEC/
+red++;
+hal_display_game();
+</data>
+          <data key="dGeometry">
+            <rect x="25.000000" y="269.500000" width="350.000000" height="200.000000"/>
+          </data>
+        </node>
+        <node id="n1::n2">
+          <data key="dName">Green</data>
+          <data key="dData">entry/
+hal_led_light(PLAYER_GREEN, 1);
+hal_led_light(PLAYER_RED, 0);
+hal_display_game();
+
+TIMER_1SEC/
+green++;
+hal_display_game();
+</data>
+          <data key="dGeometry">
+            <rect x="575.000000" y="269.500000" width="350.000000" height="200.000000"/>
+          </data>
+        </node>
+        <node id="n1::n3">
+          <data key="dVertex">initial</data>
+          <data key="dGeometry">
+            <point x="475.000000" y="94.500000"/>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n2">
+      <data key="dName">Results</data>
+      <data key="dData">entry/
+hal_display_final();
+</data>
+      <data key="dGeometry">
+        <rect x="400.000000" y="700.000000" width="950.000000" height="400.000000"/>
+      </data>
+      <graph id="n2:" edgedefault="directed">
+        <node id="n2::n0">
+          <data key="dVertex">initial</data>
+          <data key="dGeometry">
+            <point x="475.000000" y="48.000000"/>
+          </data>
+        </node>
+        <node id="n2::n1">
+          <data key="dVertex">choice</data>
+          <data key="dGeometry">
+            <rect x="454.490562" y="88.267912" width="40.000000" height="40.000000"/>
+          </data>
+        </node>
+        <node id="n2::n2">
+          <data key="dName">Tie</data>
+          <data key="dGeometry">
+            <rect x="400.000000" y="173.000000" width="150.000000" height="50.000000"/>
+          </data>
+        </node>
+        <node id="n2::n3">
+          <data key="dName">Red Won</data>
+          <data key="dData">entry/
+hal_led_light(PLAYER_RED, 1);
+hal_led_light(PLAYER_GREEN, 0);
+
+TIMER_1SEC/
+hal_led_toggle(PLAYER_RED);
+</data>
+          <data key="dGeometry">
+            <rect x="25.000000" y="173.000000" width="350.000000" height="150.000000"/>
+          </data>
+        </node>
+        <node id="n2::n4">
+          <data key="dName">Green Won</data>
+          <data key="dData">entry/
+hal_led_light(PLAYER_RED, 0);
+hal_led_light(PLAYER_GREEN, 1);
+
+TIMER_1SEC/
+hal_led_toggle(PLAYER_GREEN);
+</data>
+          <data key="dGeometry">
+            <rect x="575.000000" y="173.000000" width="350.000000" height="150.000000"/>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n3">
+      <data key="dVertex">initial</data>
+      <data key="dGeometry">
+        <point x="200.000000" y="50.000000"/>
+      </data>
+    </node>
+    <edge id="n1::n1-n1::n2" source="n1::n1" target="n1::n2">
+      <data key="dData">KEY_GREEN/</data>
+      <data key="dSourcePoint">
+        <point x="350.000000" y="150.138021"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="151.242189"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="403.585612" y="121.024080" width="94.625000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n2-n1::n1" source="n1::n2" target="n1::n1">
+      <data key="dData">KEY_RED/</data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="50.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="350.000000" y="50.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-137.687500" y="19.435863" width="75.375000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n3-n0" source="n3" target="n0">
+      <data key="dData">/
+time_mode = 300;
+</data>
+      <data key="dLabelGeometry">
+        <rect x="104.226587" y="25.749037" width="197.612385" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n3-n1::n0" source="n1::n3" target="n1::n0">
+      <data key="dTargetPoint">
+        <point x="125.000000" y="0.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n0-n1::n1" source="n1::n0" target="n1::n1">
+      <data key="dData">KEY_RED/</data>
+      <data key="dGeometry">
+        <point x="-150.000000" y="50.000000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="50.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="175.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-106.857377" y="21.011364" width="75.375000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1::n0-n1::n2" source="n1::n0" target="n1::n2">
+      <data key="dData">KEY_GREEN/</data>
+      <data key="dGeometry">
+        <point x="400.000000" y="49.968609"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="250.000000" y="49.968609"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="175.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="274.551714" y="20.097556" width="94.625000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n1-n2" source="n1" target="n2">
+      <data key="dData">TIMER_ELAPSED/</data>
+      <data key="dTargetPoint">
+        <point x="475.000000" y="0.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="478.490273" y="558.805663" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n0-n2::n1" source="n2::n0" target="n2::n1">
+    </edge>
+    <edge id="n2::n1-n2::n2" source="n2::n1" target="n2::n2">
+      <data key="dData">[else]/</data>
+      <data key="dLabelGeometry">
+        <rect x="23.233251" y="42.579257" width="65.750000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n1-n2::n3" source="n2::n1" target="n2::n3">
+      <data key="dData">[red &gt; green]/</data>
+      <data key="dGeometry">
+        <point x="-254.490562" y="20.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-181.458015" y="-9.119754" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2::n1-n2::n4" source="n2::n1" target="n2::n4">
+      <data key="dData">[green &gt; red]/</data>
+      <data key="dGeometry">
+        <point x="295.509438" y="20.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="107.891858" y="-11.300926" width="133.125000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n0-n1" source="n0" target="n1">
+      <data key="dData">KEY_OK/</data>
+      <data key="dGeometry">
+        <point x="251.518572" y="353.021304"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="251.518572" y="250.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="353.021304"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="277.112527" y="323.162509" width="65.750000" height="27.000000"/>
+      </data>
+    </edge>
+    <edge id="n2-n0" source="n2" target="n0">
+      <data key="dData">KEY_OK/</data>
+      <data key="dGeometry">
+        <point x="-275.000000" y="200.000000"/>
+      </data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="200.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="100.000000" y="250.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-184.638747" y="167.787782" width="65.750000" height="27.000000"/>
+      </data>
+    </edge>
+  </graph>
+</graphml>

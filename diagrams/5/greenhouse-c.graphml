@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <data key="gFormat">Cyberiada-GraphML-1.0</data>
+  <key id="gFormat" for="graphml" attr.name="format" attr.type="string"/>
+  <key id="dName" for="graph" attr.name="name" attr.type="string"/>
+  <key id="dName" for="node" attr.name="name" attr.type="string"/>
+  <key id="dStateMachine" for="graph" attr.name="stateMachine" attr.type="string"/>
+  <key id="dRegion" for="graph" attr.name="region" attr.type="string"/>
+  <key id="dSubmachineState" for="node" attr.name="submachineState" attr.type="string"/>
+  <key id="dGeometry" for="graph" attr.name="geometry"/>
+  <key id="dGeometry" for="node" attr.name="geometry"/>
+  <key id="dGeometry" for="edge" attr.name="geometry"/>
+  <key id="dSourcePoint" for="edge" attr.name="sourcePoint"/>
+  <key id="dTargetPoint" for="edge" attr.name="targetPoint"/>
+  <key id="dLabelGeometry" for="edge" attr.name="labelGeometry"/>
+  <key id="dNote" for="node" attr.name="note" attr.type="string"/>
+  <key id="dVertex" for="node" attr.name="vertex" attr.type="string"/>
+  <key id="dData" for="node" attr.name="data" attr.type="string"/>
+  <key id="dData" for="edge" attr.name="data" attr.type="string"/>
+  <key id="dPivot" for="edge" attr.name="pivot" attr.type="string"/>
+  <key id="dChunk" for="edge" attr.name="chunk" attr.type="string"/>
+  <key id="dCollapsed" for="node" attr.name="collapsed" attr.type="string"/>
+  <key id="dMarkup" for="node" attr.name="markup" attr.type="string"/>
+  <key id="dColor" for="node" attr.name="color" attr.type="string"/>
+  <key id="dColor" for="edge" attr.name="color" attr.type="string"/>
+  <key id="dFormalName" for="graph" attr.name="formalName" attr.type="string"/>
+  <key id="dFormalName" for="node" attr.name="formalName" attr.type="string"/>
+  <graph id="G0" edgedefault="directed">
+    <data key="dStateMachine"/>
+    <data key="dName">Умная теплица на С</data>
+    <data key="dGeometry">
+      <rect x="-425.000000" y="-275.000000" width="750.000000" height="225.000000"/>
+    </data>
+    <node id="nMeta">
+      <data key="dNote">formal</data>
+      <data key="dName">CGML_META</data>
+      <data key="dData">standardVersion/ 1.0
+
+cyberiadaEditorView/ 2.288 -1116 -1044
+
+geometry/ full
+
+platformLanguage/ C
+
+transitionOrder/ actionFirst
+
+eventPropagation/ block</data>
+    </node>
+    <node id="n0">
+      <data key="dName">День</data>
+      <data key="dData">entry/
+set_window(1)
+
+exit/
+set_window(2)
+</data>
+      <data key="dGeometry">
+        <rect x="100.000000" y="50.000000" width="200.000000" height="150.000000"/>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="dName">Ночь</data>
+      <data key="dGeometry">
+        <rect x="525.000000" y="50.000000" width="200.000000" height="150.000000"/>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="dVertex">initial</data>
+      <data key="dGeometry">
+        <point x="50.000000" y="100.000000"/>
+      </data>
+    </node>
+    <edge id="n0-n1" source="n0" target="n1">
+      <data key="dData">TIMER_1SEC [get_light() &lt; DAY_LIGHT]/</data>
+      <data key="dSourcePoint">
+        <point x="200.000000" y="25.000000"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="0.000000" y="25.000000"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="235.544313" y="-7.872349" width="147.979512" height="65.000000"/>
+      </data>
+    </edge>
+    <edge id="n1-n0" source="n1" target="n0">
+      <data key="dData">TIMER_1SEC [get_light() &gt; DAY_LIGHT]/</data>
+      <data key="dSourcePoint">
+        <point x="0.000000" y="130.541282"/>
+      </data>
+      <data key="dTargetPoint">
+        <point x="200.000000" y="131.105756"/>
+      </data>
+      <data key="dLabelGeometry">
+        <rect x="-180.662606" y="98.160385" width="145.572263" height="65.000000"/>
+      </data>
+    </edge>
+    <edge id="n2-n0" source="n2" target="n0">
+      <data key="dTargetPoint">
+        <point x="0.000000" y="50.000000"/>
+      </data>
+    </edge>
+  </graph>
+</graphml>

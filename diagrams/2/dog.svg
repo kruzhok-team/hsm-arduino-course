@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="467.783mm" height="249.767mm"
- viewBox="0 0 1326 708"
+<svg width="467.783mm" height="249.414mm"
+ viewBox="0 0 1326 707"
  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
 <title>Qt SVG Document</title>
 <desc>Generated with Qt</desc>
@@ -9,1624 +9,1618 @@
 <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
 
 <g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<rect x="0" y="0" width="1326" height="708"/>
+<rect x="0" y="0" width="1326" height="707"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,100.993,124.039)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,100.993,124.039)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-40 C-100,-45.5228 -95.5228,-50 -90,-50 L90,-50 C95.5228,-50 100,-45.5228 100,-40 L100,40 C100,45.5228 95.5228,50 90,50 L-90,50 C-95.5228,50 -100,45.5228 -100,40 L-100,-40"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,100.993,124.039)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="80.75" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="80.8125" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Ждет</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,0.999933,110.54)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,101.32,10.9993)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,101.32,10.9993)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <circle cx="0" cy="0" r="10"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,101.32,10.9993)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,778.931,377.587)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,778.931,377.587)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <polyline fill="none" vector-effect="none" points="-545,-160.435 545,-160.435 " />
 <path vector-effect="none" fill-rule="evenodd" d="M-545,-177.435 C-545,-182.958 -540.523,-187.435 -535,-187.435 L535,-187.435 C540.523,-187.435 545,-182.958 545,-177.435 L545,177.435 C545,182.958 540.523,187.435 535,187.435 L-535,187.435 C-540.523,187.435 -545,182.958 -545,177.435 L-545,-177.435"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,778.931,377.587)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="516.125" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="516.219" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Гуляет</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,233.968,190.164)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,778.931,391.086)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,778.931,391.086)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,402.34)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,401.425)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,402.34)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,401.425)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <polyline fill="none" vector-effect="none" points="-310.5,-107.25 310.5,-107.25 " />
 <path vector-effect="none" fill-rule="evenodd" d="M-310.5,-124.25 C-310.5,-129.773 -306.023,-134.25 -300.5,-134.25 L300.5,-134.25 C306.023,-134.25 310.5,-129.773 310.5,-124.25 L310.5,124.25 C310.5,129.773 306.023,134.25 300.5,134.25 L-300.5,134.25 C-306.023,134.25 -310.5,129.773 -310.5,124.25 L-310.5,-124.25"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,402.34)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,401.425)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="281.625" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="281.719" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Играет</text>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,268.099)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,662.354,267.184)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,415.839)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,414.924)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,415.839)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,972.833,414.924)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,368.842)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,367.927)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,368.842)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,367.927)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-18.75 C-100,-24.2728 -95.5228,-28.75 -90,-28.75 L90,-28.75 C95.5228,-28.75 100,-24.2728 100,-18.75 L100,18.75 C100,24.2728 95.5228,28.75 90,28.75 L-90,28.75 C-95.5228,28.75 -100,24.2728 -100,18.75 L-100,-18.75"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,368.842)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,956.334,367.927)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="56.6875" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="56.8281" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Ждет мяча</text>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,355.343)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,856.341,354.428)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,478.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,477.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,478.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,477.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-18.75 C-100,-24.2728 -95.5228,-28.75 -90,-28.75 L90,-28.75 C95.5228,-28.75 100,-24.2728 100,-18.75 L100,18.75 C100,24.2728 95.5228,28.75 90,28.75 L-90,28.75 C-95.5228,28.75 -100,24.2728 -100,18.75 L-100,-18.75"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,478.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,793.345,477.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="75.9375" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="76.0156" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Бежит</text>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,465.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,693.352,464.421)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,476.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,475.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,476.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,475.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-18.75 C-100,-24.2728 -95.5228,-28.75 -90,-28.75 L90,-28.75 C95.5228,-28.75 100,-24.2728 100,-18.75 L100,18.75 C100,24.2728 95.5228,28.75 90,28.75 L-90,28.75 C-95.5228,28.75 -100,24.2728 -100,18.75 L-100,-18.75"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,476.835)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1157.32,475.92)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="56.6875" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="56.8281" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Несет мяч</text>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,463.336)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1057.33,462.421)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,321.595)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,320.68)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,321.595)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,320.68)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <circle cx="0" cy="0" r="10"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,321.595)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,813.344,320.68)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,378.958,321.526)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,378.958,321.526)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-18 C-100,-23.5228 -95.5228,-28 -90,-28 L90,-28 C95.5228,-28 100,-23.5228 100,-18 L100,18 C100,23.5228 95.5228,28 90,28 L-90,28 C-95.5228,28 -100,23.5228 -100,18 L-100,-18"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,378.958,321.526)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="75.9375" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="76.0156" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Ходит</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,278.965,308.027)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,380.185,251.724)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,380.185,251.724)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <circle cx="0" cy="0" r="10"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,380.185,251.724)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.958,492.514)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.958,492.514)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-100,-18 C-100,-23.5228 -95.5228,-28 -90,-28 L90,-28 C95.5228,-28 100,-23.5228 100,-18 L100,18 C100,23.5228 95.5228,28 90,28 L-90,28 C-95.5228,28 -100,23.5228 -100,18 L-100,-18"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.958,492.514)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="37.4375" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="37.6406" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
  >Нюхает дерево</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="700" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,275.965,479.015)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.931,668.003)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.93,668.003)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.931,668.003)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.93,668.003)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <circle cx="0" cy="0" r="10"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.931,668.003)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.93,668.003)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <circle cx="0" cy="0" r="6.66667"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.931,668.003)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,790.93,668.003)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="94.3438" height="26"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >Закончила</text>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.621,680.002)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,743.762,680.002)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-420.549,-399.048 L-419.979,-346"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-419.979,-346 L-415.073,-354.713 L-425.072,-354.606 L-419.979,-346"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.0211)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,97.7126,34.5211)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M270.088,144.806 L270.088,238.059"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M270.088,238.059 L275.088,229.399 L265.088,229.399 L270.088,238.059"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<rect x="0" y="0" width="94.625" height="27"/>
+<rect x="0" y="0" width="94.625" height="26"/>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.14063" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ВЕРНУЛАСЬ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.102)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,747.763,599.602)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-320.983,-287 L260.227,-287 L260.227,-229.871"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M260.227,-229.871 L265.227,-238.531 L255.227,-238.531 L260.227,-229.871"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<rect x="0" y="0" width="133.125" height="27"/>
+<rect x="0" y="0" width="133.125" height="26"/>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.20313" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ВЫШЛА ИЗ ДОМА</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,120.539)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,306.417,121.039)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-141.948,-158.308 L-142.508,-126.5"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-142.508,-126.5 L-137.356,-135.071 L-147.355,-135.247 L-142.508,-126.5"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.126)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,375.73,264.626)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-194.018,-70.5 L-194.832,44.5"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-194.832,44.5 L-189.77,35.8754 L-199.77,35.8046 L-194.832,44.5"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<rect x="0" y="0" width="123.5" height="27"/>
+<rect x="0" y="0" width="123.5" height="26"/>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.1875" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >НАШЛА ДЕРЕВО</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,376.522)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,272.791,377.022)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-76.6374,44.5 L-76.067,-70.5"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <path vector-effect="none" fill-rule="evenodd" d="M-76.067,-70.5 L-81.1099,-61.8647 L-71.11,-61.815 L-76.067,-70.5"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<rect x="0" y="0" width="85" height="27"/>
+<rect x="0" y="0" width="85" height="26"/>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.125" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ПОНЮХАЛА</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,414.52)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,401.104,415.02)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M-45.2068,-122.5 L140.415,-123.942"/>
+<path vector-effect="none" fill-rule="evenodd" d="M-45.2068,-122.5 L140.415,-124.857"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M140.415,-123.942 L131.716,-128.874 L131.794,-118.875 L140.415,-123.942"/>
+<path vector-effect="none" fill-rule="evenodd" d="M140.415,-124.857 L131.692,-129.746 L131.819,-119.747 L140.415,-124.857"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<rect x="0" y="0" width="113.797" height="65"/>
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="113.797" height="43"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.5781" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
- >У ХОЗЯИНА</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="23.2031" y="38" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
- >В РУКАХ</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.125" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+ >У ХОЗЯИНА В</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="42.4531" y="57" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
- >МЯЧ</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.7188" y="34" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+ >РУКАХ МЯЧ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,258.391)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,508.793,269.39)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M140.415,-74.4635 L-44.6426,-75.3368"/>
+<path vector-effect="none" fill-rule="evenodd" d="M140.415,-75.3784 L-44.6426,-75.3368"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M-44.6426,-75.3368 L-36.0061,-70.296 L-35.9589,-80.2959 L-44.6426,-75.3368"/>
+<path vector-effect="none" fill-rule="evenodd" d="M-44.6426,-75.3368 L-35.9812,-70.3387 L-35.9835,-80.3387 L-44.6426,-75.3368"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<rect x="0" y="0" width="85" height="46"/>
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="84.75" height="43"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="11.125" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="11.2188" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ХОЗЯИН</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="38" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="34" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ОТВЛЕКСЯ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.363,328.536)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,526.488,329.121)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M371.415,58.6556 L535.415,58.387"/>
+<path vector-effect="none" fill-rule="evenodd" d="M371.415,57.7407 L535.415,57.472"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M535.415,58.387 L526.746,53.4012 L526.763,63.4012 L535.415,58.387"/>
+<path vector-effect="none" fill-rule="evenodd" d="M535.415,57.472 L526.746,52.4862 L526.763,62.4862 L535.415,57.472"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<rect x="0" y="0" width="95.9063" height="46"/>
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="95.9063" height="43"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="9.45313" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="9.57813" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >СХВАТИЛА</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="33.5156" y="38" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="33.5625" y="34" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >МЯЧ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,455.974)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,931.97,456.559)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M637.415,28.0694 L637.415,-46.4306 L534.415,-45.4306"/>
+<path vector-effect="none" fill-rule="evenodd" d="M637.415,27.1545 L637.415,-47.3455 L534.415,-46.3455"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M534.415,-45.4306 L543.123,-40.5149 L543.026,-50.5144 L534.415,-45.4306"/>
+<path vector-effect="none" fill-rule="evenodd" d="M534.415,-46.3455 L543.123,-41.4298 L543.026,-51.4293 L534.415,-46.3455"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<rect x="0" y="0" width="132.891" height="46"/>
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="132.891" height="43"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.5" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="13.6719" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ВЕРНУЛА МЯЧ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.75" y="38" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="32.8594" y="34" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ХОЗЯИНУ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.199)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,1093.51,353.784)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M334.415,-48.4306 L245.415,-48.4306 L245.415,30.0694"/>
+<path vector-effect="none" fill-rule="evenodd" d="M334.415,-49.3455 L245.415,-49.3455 L245.415,29.1545"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M245.415,30.0694 L250.415,21.4092 L240.415,21.4092 L245.415,30.0694"/>
+<path vector-effect="none" fill-rule="evenodd" d="M245.415,29.1545 L250.415,20.4942 L240.415,20.4942 L245.415,29.1545"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-<rect x="0" y="0" width="116.578" height="46"/>
-</g>
-
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="116.578" height="43"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="29.4063" y="19" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+</g>
+
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="29.5" y="17" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >ХОЗЯИН</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="10.1563" y="38" font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="10.3125" y="34" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
  >БРОСИЛ МЯЧ</text>
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#ffffff" fill-opacity="0.901961" stroke="none" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,354.439)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,702.966,355.024)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M299.358,-92.356 L334.415,-65.5475"/>
+<path vector-effect="none" fill-rule="evenodd" d="M299.358,-93.2709 L334.415,-66.4624"/>
 </g>
 
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M334.415,-65.5475 L330.573,-74.78 L324.498,-66.8365 L334.415,-65.5475"/>
+<path vector-effect="none" fill-rule="evenodd" d="M334.415,-66.4624 L330.573,-75.6949 L324.498,-67.7514 L334.415,-66.4624"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.949,420.019)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,521.948,420.019)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.574)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Cyberiada Mono" font-size="16" font-weight="400" font-style="normal" 
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999933,0,0,0.999933,834.814,327.159)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
 </g>
