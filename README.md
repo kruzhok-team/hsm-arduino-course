@@ -22,7 +22,7 @@ Documentation License (версия 1.3). Исходный код распрос
 ## Программное обеспечение
 
 * Среда разработки ![Cyberiada IDE](https://method.insitulab.pro/cyberiada)
-* Редактор диаграмм ПРИМС ![Cyberiada HSM Editor](https://github.com/dralex/CyberiadaHSM-Editor)
+* Редактор диаграмм ПРИМС ![CyberiadaPro](https://github.com/dralex/CyberiadaHSM-Editor)
 
 ## Дополнительные ссылки
 
