@@ -12,7 +12,7 @@
 1.  ![Введение в цифровую электронику и микроконтроллеры](01-digital-electronics.md)
 2.  ![Машины состояний для управления светофором на Arduino](02-traffic-light-sm.md)
 3.  ![Основы программирования машин состояний: состояния и события в программе](03-states-and-events.md)
-4.  ![Язык программирования машин состояний (ПРИМС) для реальных устройств](04-hsm-language.md)
+4.  ![Язык программирования машин состояний (ПРИМС) для реальных устройств](04-hsm-language.md) и ![промежуточный тест курса](04-1-intermediate-test).
 5.  Управление с использованием датчиков: аналоговые и цифровые порты
 6.  Устройство микроконтроллера. Язык С++ для программирования микроконтроллеров
 7.  Переход от диаграмм машин состояний к С++. Генерация кода
@@ -85,3 +85,4 @@
     programming](https://dubroy.com/refs/Statecharts_a_visual_formalism_for_complex_systems.pdf) 8.3 (1987): 231-274.	
   - Samek, M. ![Practical UML statecharts in C/C++: event-driven programming for embedded
     systems](https://www.state-machine.com/psicc2). CRC Press, 2008.
+
