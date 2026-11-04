@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.209656mm"
+   height="37.521549mm"
+   viewBox="0 0 79.209656 37.521549"
+   version="1.1"
+   id="svg300"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="signal-digital.svg">
+  <defs
+     id="defs294">
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9073"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9082"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1463.9733"
+     inkscape:cy="-697.66456"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2452"
+     inkscape:window-height="1486"
+     inkscape:window-x="108"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata297">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(460.67031,73.278632)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleInL);marker-end:url(#TriangleOutL)"
+       d="m -447.25393,-69.301124 v 25.194994 h 61.89012"
+       id="path8938"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"
+       sodipodi:nodetypes="ccc" />
+    <text
+       id="text9346"
+       y="-35.850216"
+       x="-384.71185"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px"
+         y="-35.850216"
+         x="-384.71185"
+         id="tspan9344"
+         sodipodi:role="line">t</tspan></text>
+    <text
+       inkscape:export-ydpi="299.82635"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-461.35611"
+       y="-67.411232"
+       id="text1804"><tspan
+         sodipodi:role="line"
+         id="tspan1802"
+         x="-461.35611"
+         y="-67.411232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332px">U<tspan
+   style="font-size:4.93888903px;stroke-width:0.26458332px"
+   id="tspan1818">, В</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -447.25393,-45.242029 h 8.64984 v -14.214317 h 8.64984 v 14.214317 h 8.64984 v -14.214317 h 8.71058 v 14.214317 h 8.58911 v -14.214317 h 16.83354"
+       id="path2349"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299" />
+    <text
+       id="text2048"
+       y="-38.555813"
+       x="-444.45459"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px"
+         y="-38.555813"
+         x="-444.45459"
+         id="tspan2046"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       id="text2072"
+       y="-38.555813"
+       x="-427.26968"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px"
+         y="-38.555813"
+         x="-427.26968"
+         id="tspan2070"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-ydpi="299.82635"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-410.08478"
+       y="-38.555813"
+       id="text2076"><tspan
+         sodipodi:role="line"
+         id="tspan2074"
+         x="-410.08478"
+         y="-38.555813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px">0</tspan></text>
+    <text
+       id="text2080"
+       y="-38.555813"
+       x="-435.61026"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px"
+         y="-38.555813"
+         x="-435.61026"
+         id="tspan2078"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       inkscape:export-ydpi="299.82635"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-418.42535"
+       y="-38.555813"
+       id="text2084"><tspan
+         sodipodi:role="line"
+         id="tspan2082"
+         x="-418.42535"
+         y="-38.555813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px">1</tspan></text>
+    <text
+       id="text2088"
+       y="-38.555813"
+       x="-401.24042"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-ydpi="299.82635"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px"
+         y="-38.555813"
+         x="-401.24042"
+         id="tspan2086"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       inkscape:export-ydpi="299.82635"
+       inkscape:export-xdpi="299.82635"
+       inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Онлайн-курс/Рисунки/рисунок-11.4.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-393.11224"
+       y="-38.555813"
+       id="text2092"><tspan
+         sodipodi:role="line"
+         id="tspan2090"
+         x="-393.11224"
+         y="-38.555813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff6600;fill-opacity:1;stroke-width:0.26458332px">1</tspan></text>
+  </g>
+</svg>
