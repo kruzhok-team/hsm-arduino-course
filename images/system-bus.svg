@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142.32141mm"
+   height="45.060165mm"
+   viewBox="0 0 142.32141 45.060166"
+   version="1.1"
+   id="svg866"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="system-bus.svg"
+   inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/Ардуино/system-bus.png"
+   inkscape:export-xdpi="199"
+   inkscape:export-ydpi="199">
+  <defs
+     id="defs860" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="299.00472"
+     inkscape:cy="30.844446"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2452"
+     inkscape:window-height="1486"
+     inkscape:window-x="108"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata863">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.287214,-76.436822)">
+    <g
+       id="g2397"
+       transform="matrix(0.28222223,0,0,0.28222223,22.296516,-1.4880856)">
+      <rect
+         y="276.4252"
+         x="67.603203"
+         height="60.033077"
+         width="123.66219"
+         id="rect1387"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.62666202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1389"
+         y="302.29623"
+         x="129.39328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           y="302.29623"
+           x="129.39328"
+           id="tspan1391"
+           sodipodi:role="line">Центральный</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan1393"
+           y="317.29623"
+           x="129.39328"
+           sodipodi:role="line">процессор</tspan></text>
+    </g>
+    <g
+       id="g2391"
+       transform="matrix(0.28222223,0,0,0.28222223,29.772539,-2.4640984)">
+      <rect
+         y="279.88351"
+         x="231.11314"
+         height="60.033077"
+         width="123.66219"
+         id="rect2387"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.62666202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1397"
+         y="306.76236"
+         x="293.14929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan1401"
+           y="306.76236"
+           x="293.14929"
+           sodipodi:role="line">Основная</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan1409"
+           y="321.76236"
+           x="293.14929"
+           sodipodi:role="line">память</tspan></text>
+    </g>
+    <g
+       id="g2403"
+       transform="matrix(0.28222223,0,0,0.28222223,-6.407868,-1.0386644)">
+      <rect
+         y="274.83276"
+         x="549.31122"
+         height="60.033077"
+         width="123.66219"
+         id="rect2389"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.62666202;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1419"
+         y="301.12567"
+         x="611.12476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan1423"
+           y="301.12567"
+           x="611.12476"
+           sodipodi:role="line">Устройства</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="tspan1425"
+           y="316.12567"
+           x="611.12476"
+           sodipodi:role="line">ввода-вывода</tspan></text>
+    </g>
+    <g
+       id="g82"
+       transform="translate(-0.02582316)">
+      <path
+         sodipodi:nodetypes="ccccccccccccccccc"
+         d="m 62.891098,118.3065 v 3.00633 l -8.34567,-6.94188 v -0.005 l -0.0219,-0.0137 h 0.03833 l 8.356626,-6.95099 v 3.01088 l 99.099586,-0.005 v -3.01543 l 8.36758,6.96009 h 0.0383 l -0.0219,0.0137 v 0.005 l -8.35662,6.95554 v -3.01088 z"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.16025686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1481"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text2245"
+         y="115.53408"
+         x="112.50083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222223pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="115.53408"
+           x="112.50083"
+           id="tspan2247"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.28222223pt">Системная шина</tspan></text>
+    </g>
+    <rect
+       y="91.266319"
+       x="84.98143"
+       height="14.674808"
+       width="26.584747"
+       id="rect50"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.17685795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text56"
+       y="97.415001"
+       x="98.277191"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222223pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.28222223pt"
+         id="tspan54"
+         y="97.415001"
+         x="98.277191"
+         sodipodi:role="line">Память</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.28222223pt"
+         y="101.64833"
+         x="98.277191"
+         sodipodi:role="line"
+         id="tspan66">для данных</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.17685795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect68"
+       width="26.584747"
+       height="14.674808"
+       x="114.36908"
+       y="91.266319" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:0%;font-family:'Bitstream Vera Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28222223pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.75967"
+       y="97.415001"
+       id="text74"><tspan
+         sodipodi:role="line"
+         x="127.75967"
+         y="97.415001"
+         id="tspan70"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.28222223pt">Память</tspan><tspan
+         id="tspan72"
+         sodipodi:role="line"
+         x="127.75967"
+         y="101.64833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38666677px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.28222223pt">для кода</tspan></text>
+  </g>
+</svg>
