@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="745.26947mm"
+   height="165.3378mm"
+   viewBox="0 0 745.26947 165.3378"
+   version="1.1"
+   id="svg32205"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="greenhouse-legend.svg">
+  <defs
+     id="defs32199">
+    <marker
+       inkscape:stockid="TriangleOutS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2692-3-6"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2690-9-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker32517-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path32515-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="2439.8118"
+     inkscape:cy="-661.83635"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2452"
+     inkscape:window-height="1486"
+     inkscape:window-x="108"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata32202">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(900.28948,191.61533)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-843.9776"
+       y="-177.39836"
+       id="text4956-0"
+       inkscape:export-xdpi="199.99586"
+       inkscape:export-ydpi="199.99586"><tspan
+         sodipodi:role="line"
+         id="tspan4954-6"
+         x="-843.9776"
+         y="-177.39836"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.63888931px;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px">Диаграмма машины состояний:</tspan></text>
+    <g
+       transform="translate(-999.98897,-985.15067)"
+       style="display:inline"
+       id="g6270"
+       inkscape:export-xdpi="199"
+       inkscape:export-ydpi="199">
+      <path
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         inkscape:connector-curvature="0"
+         id="path7885"
+         d="m 380.32437,926.7798 8.2323,-30.7236"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 301.42837,926.5808 h -3.9386 v -28.9767 h 3.9386"
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8110" />
+      <path
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         id="path8128"
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 365.69787,924.8269 h 3.9386 v -28.9767 h -3.9386"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <g
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         transform="translate(-622.44409,28.09153)"
+         id="g32493"
+         style="display:inline">
+        <rect
+           ry="3.670577"
+           rx="3.670577"
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           y="874.11304"
+           x="864.11578"
+           height="19.313316"
+           width="42.018768"
+           id="rect32420"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path32422"
+           d="m 885.12515,874.21462 v 19.11003"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+      </g>
+      <text
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37408447px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15935211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="244.46848"
+         y="941.81927"
+         id="text33592"><tspan
+           sodipodi:role="line"
+           id="tspan33590"
+           x="244.46848"
+           y="941.81927"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.15935211px">Событие</tspan></text>
+      <text
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         id="text33596"
+         y="937.14203"
+         x="337.28644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37408447px;line-height:100%;font-family:Jura;-inkscape-font-specification:Jura;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15935211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px"
+           y="937.14203"
+           x="337.28644"
+           id="tspan33594"
+           sodipodi:role="line">Условие</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px"
+           y="947.01984"
+           x="337.28644"
+           sodipodi:role="line"
+           id="tspan33598">срабатывания</tspan><tspan
+           id="tspan33678"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px"
+           y="956.89758"
+           x="337.28644"
+           sodipodi:role="line">(опционально)</tspan></text>
+      <text
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37408447px;line-height:100%;font-family:Jura;-inkscape-font-specification:Jura;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15935211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="417.57098"
+         y="937.14203"
+         id="text33604"><tspan
+           sodipodi:role="line"
+           id="tspan33600"
+           x="417.57098"
+           y="937.14203"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px">Действия после</tspan><tspan
+           id="tspan33602"
+           sodipodi:role="line"
+           x="417.57098"
+           y="947.01984"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px">срабатывания</tspan><tspan
+           id="tspan33680"
+           sodipodi:role="line"
+           x="417.57098"
+           y="956.89758"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.15935211px">(опционально)</tspan></text>
+      <g
+         transform="translate(-66.02831,-11.581165)"
+         id="g6220">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect4188-5"
+           width="56.065392"
+           height="40.681416"
+           x="166.2278"
+           y="890.90723"
+           inkscape:export-xdpi="199.99586"
+           inkscape:export-ydpi="199.99586"
+           rx="6.8078914"
+           ry="6.9455643" />
+        <path
+           inkscape:export-ydpi="199.99586"
+           inkscape:export-xdpi="199.99586"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4191-4"
+           d="m 166.02831,909.79402 h 56.4642"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37408447px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15935211px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="173.50246"
+           y="903.72131"
+           id="text4195-7"
+           inkscape:export-xdpi="199.99586"
+           inkscape:export-ydpi="199.99586"><tspan
+             sodipodi:role="line"
+             id="tspan4193-6"
+             x="173.50246"
+             y="903.72131"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777805px;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.15935211px">Название</tspan></text>
+        <text
+           id="text32479"
+           y="909.17786"
+           x="228.73537"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:100%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-xdpi="199.99586"
+           inkscape:export-ydpi="199.99586"><tspan
+             id="tspan32477"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+             y="909.17786"
+             x="228.73537"
+             sodipodi:role="line">Состояния</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+             y="921.87787"
+             x="228.73537"
+             sodipodi:role="line"
+             id="tspan2282">системы</tspan></text>
+      </g>
+      <text
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         id="text32489"
+         y="841.29803"
+         x="343.4234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:100%;font-family:Jura;-inkscape-font-specification:Jura;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan32487"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="841.29803"
+           x="343.4234"
+           sodipodi:role="line">События и переходы</tspan><tspan
+           id="tspan33588"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+           y="853.99805"
+           x="343.4234"
+           sodipodi:role="line">между состояниями:</tspan></text>
+      <g
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         id="g32499"
+         transform="translate(-549.94723,28.09153)"
+         style="display:inline">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect32495"
+           width="42.018768"
+           height="19.313316"
+           x="864.11578"
+           y="874.11304"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299"
+           rx="3.670577"
+           ry="3.670577" />
+        <path
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           d="m 885.12515,874.21462 v 19.11003"
+           id="path32497"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         transform="translate(-466.44722,28.09153)"
+         id="g32505"
+         style="display:inline">
+        <rect
+           ry="3.670577"
+           rx="3.670577"
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           y="874.11304"
+           x="864.11578"
+           height="19.313316"
+           width="42.018768"
+           id="rect32501"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path32503"
+           d="m 885.12515,874.21462 v 19.11003"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+      </g>
+      <path
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker32517-6)"
+         d="M 444.34187,874.7814 H 247.24159"
+         id="path32513"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         inkscape:export-ydpi="199.99586"
+         inkscape:export-xdpi="199.99586"
+         style="display:inline;fill:#ffffff;fill-opacity:1"
+         id="g33543"
+         transform="translate(-541.28194,-8.9883203)">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect33539"
+           width="42.018768"
+           height="19.313316"
+           x="864.11578"
+           y="874.11304"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299"
+           rx="3.670577"
+           ry="3.670577" />
+        <path
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           d="m 885.12515,874.21462 v 19.11003"
+           id="path33541"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(5.3024618,-1.1333096)"
+         id="g6226">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:100%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="133.58565"
+           y="841.41534"
+           id="text1384-1"
+           inkscape:export-xdpi="199.99586"
+           inkscape:export-ydpi="199.99586"><tspan
+             sodipodi:role="line"
+             x="133.58565"
+             y="841.41534"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+             id="tspan1382-5">Начало</tspan><tspan
+             sodipodi:role="line"
+             x="133.58565"
+             y="854.11536"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:100%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+             id="tspan2280">исполнения</tspan></text>
+        <circle
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/НКФП/Педагогика/statemachine.png"
+           inkscape:export-ydpi="199.99586"
+           inkscape:export-xdpi="199.99586"
+           r="6.9723191"
+           cy="128.6221"
+           cx="-841.89948"
+           id="circle11235-9"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.73785806;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           transform="rotate(-89.234703)" />
+      </g>
+    </g>
+    <text
+       id="text12453"
+       y="-179.26811"
+       x="-462.25082"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="199.99586"
+       inkscape:export-ydpi="199.99586"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.63888931px;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+         y="-179.26811"
+         x="-462.25082"
+         id="tspan12451"
+         sodipodi:role="line">Команды управления системой:</tspan></text>
+    <g
+       transform="translate(-999.98897,-985.15067)"
+       style="display:inline"
+       id="g7757"
+       inkscape:export-xdpi="199"
+       inkscape:export-ydpi="199">
+      <g
+         id="g12890-8"
+         style="display:inline"
+         transform="translate(232.60846,-10.83642)">
+        <rect
+           ry="3.670577"
+           rx="3.670577"
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           y="859.31744"
+           x="254.58601"
+           height="19.313316"
+           width="42.018768"
+           id="rect3699-6-5"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00aa88;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3701-7-6"
+           d="m 275.59538,859.41906 v 19.11003"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+        <g
+           transform="translate(-680.92832,121.53801)"
+           id="g3711-5-1">
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 963.21432,751.66902 8.33128,-8.33131"
+             id="path3707-6-1"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path3709-3-5"
+             d="m 971.5456,751.66902 -8.33128,-8.33131"
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <g
+           id="g13321-9-9"
+           transform="matrix(0.56733025,0,0,0.56733025,-197.81233,646.74965)"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-xdpi="99.974617"
+           inkscape:export-ydpi="99.974617">
+          <path
+             inkscape:connector-curvature="0"
+             id="path13049-4-8"
+             d="m 817.18401,403.47224 c 1.94951,-0.51464 3.3613,-2.17096 3.59109,-4.21307 0.14678,-1.30441 -0.30736,-2.67458 -1.23423,-3.72378 -0.13651,-0.15453 -0.31393,-0.33108 -0.39427,-0.39236 l -0.14608,-0.11143 -0.23867,0.1944 c -0.73026,0.59481 -1.79292,0.98109 -2.69892,0.98109 h -0.34041 l -0.25553,0.3533 c -0.29998,0.41478 -0.99378,1.14681 -1.40385,1.48119 -0.67539,0.55074 -1.70798,1.12852 -2.49829,1.39791 -0.19062,0.065 -0.35311,0.12299 -0.3611,0.12892 -0.008,0.006 0.0285,0.18294 0.0811,0.39337 0.45066,1.80376 1.86414,3.15902 3.72415,3.57075 0.55045,0.12185 1.59474,0.0929 2.17503,-0.0603 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13045-8-4"
+             d="m 809.87528,396.45101 c 0.95982,-0.21075 1.67562,-0.59899 2.39211,-1.29744 l 0.39927,-0.38922 -0.1763,-0.21057 c -0.59452,-0.71008 -0.96231,-1.69168 -1.00377,-2.67891 l -0.0172,-0.41157 -0.27715,-0.20862 c -1.33305,-1.00345 -2.23577,-2.17544 -2.82906,-3.67294 -0.10948,-0.27633 -0.19906,-0.53713 -0.19906,-0.57956 0,-0.0657 -0.0256,-0.0731 -0.17204,-0.0496 -0.50693,0.0811 -1.32003,0.42361 -1.83483,0.77299 -0.87839,0.59617 -1.61981,1.64804 -1.91695,2.71968 -0.14021,0.50569 -0.19185,1.49302 -0.10608,2.02839 0.24899,1.55422 1.31853,2.96705 2.74507,3.62615 0.36254,0.16751 0.95872,0.34806 1.34982,0.40879 0.35688,0.0554 1.27846,0.0233 1.64624,-0.0576 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13041-1-8"
+             d="m 824.53028,396.31292 c 1.81617,-0.60871 3.0815,-2.17581 3.30431,-4.09236 0.17216,-1.48079 -0.36845,-2.94108 -1.48486,-4.01102 -0.91336,-0.87532 -2.01805,-1.32244 -3.2828,-1.32867 -0.80783,-0.004 -1.49129,0.15184 -2.18778,0.49882 -0.51644,0.25727 -1.16716,0.75729 -1.44954,1.11382 l -0.13307,0.16801 0.24154,0.31783 c 0.53336,0.70183 0.86632,1.62091 0.91568,2.52754 l 0.0259,0.47681 0.2647,0.182 c 0.43855,0.30154 1.04235,0.85734 1.41562,1.30309 0.74776,0.89297 1.21237,1.73653 1.62471,2.94986 0.0274,0.0806 0.3085,0.0408 0.74553,-0.10573 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13037-2-1"
+             d="m 817.11139,393.80306 c 1.35926,-0.73979 1.66853,-2.55661 0.62747,-3.68603 -1.20461,-1.30684 -3.24415,-0.97314 -3.9613,0.6481 -0.567,1.28178 0.15921,2.82284 1.54457,3.27739 0.43512,0.14281 1.29957,0.0272 1.78926,-0.23946 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path12960-9-0"
+             d="m 813.20252,388.16787 c 0.80327,-0.60383 1.58849,-0.89283 2.60385,-0.95837 l 0.43729,-0.0282 0.30326,-0.41073 c 0.9094,-1.23171 2.35851,-2.29285 3.7907,-2.77584 0.24216,-0.0817 0.37317,-0.14885 0.38261,-0.19622 0.0271,-0.1355 -0.21231,-0.86929 -0.425,-1.3029 -1.28389,-2.61755 -4.5117,-3.49659 -6.98529,-1.90234 -0.35712,0.23017 -0.91939,0.7614 -1.20871,1.14199 -0.30379,0.39963 -0.66594,1.15425 -0.80152,1.67012 -0.1617,0.61525 -0.19164,1.55587 -0.0683,2.14446 0.17457,0.83288 0.50483,1.52839 1.03131,2.17191 0.22067,0.26973 0.60198,0.64403 0.65608,0.64403 0.0112,0 0.1389,-0.089 0.28369,-0.19788 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g13023-3"
+         style="display:inline"
+         transform="translate(190.58966,-29.312217)">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00aa88;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect12892-0"
+           width="42.018768"
+           height="19.313316"
+           x="296.6048"
+           y="859.31744"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299"
+           rx="3.670577"
+           ry="3.670577" />
+        <path
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           d="m 317.61416,859.41906 v 19.11003"
+           id="path12894-4"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:export-ydpi="99.974617"
+           inkscape:export-xdpi="99.974617"
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.56733025,0,0,0.56733025,-155.79355,646.74965)"
+           id="g12912-4">
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 817.18401,403.47224 c 1.94951,-0.51464 3.3613,-2.17096 3.59109,-4.21307 0.14678,-1.30441 -0.30736,-2.67458 -1.23423,-3.72378 -0.13651,-0.15453 -0.31393,-0.33108 -0.39427,-0.39236 l -0.14608,-0.11143 -0.23867,0.1944 c -0.73026,0.59481 -1.79292,0.98109 -2.69892,0.98109 h -0.34041 l -0.25553,0.3533 c -0.29998,0.41478 -0.99378,1.14681 -1.40385,1.48119 -0.67539,0.55074 -1.70798,1.12852 -2.49829,1.39791 -0.19062,0.065 -0.35311,0.12299 -0.3611,0.12892 -0.008,0.006 0.0285,0.18294 0.0811,0.39337 0.45066,1.80376 1.86414,3.15902 3.72415,3.57075 0.55045,0.12185 1.59474,0.0929 2.17503,-0.0603 z"
+             id="path12902-4"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 809.87528,396.45101 c 0.95982,-0.21075 1.67562,-0.59899 2.39211,-1.29744 l 0.39927,-0.38922 -0.1763,-0.21057 c -0.59452,-0.71008 -0.96231,-1.69168 -1.00377,-2.67891 l -0.0172,-0.41157 -0.27715,-0.20862 c -1.33305,-1.00345 -2.23577,-2.17544 -2.82906,-3.67294 -0.10948,-0.27633 -0.19906,-0.53713 -0.19906,-0.57956 0,-0.0657 -0.0256,-0.0731 -0.17204,-0.0496 -0.50693,0.0811 -1.32003,0.42361 -1.83483,0.77299 -0.87839,0.59617 -1.61981,1.64804 -1.91695,2.71968 -0.14021,0.50569 -0.19185,1.49302 -0.10608,2.02839 0.24899,1.55422 1.31853,2.96705 2.74507,3.62615 0.36254,0.16751 0.95872,0.34806 1.34982,0.40879 0.35688,0.0554 1.27846,0.0233 1.64624,-0.0576 z"
+             id="path12904-4"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 824.53028,396.31292 c 1.81617,-0.60871 3.0815,-2.17581 3.30431,-4.09236 0.17216,-1.48079 -0.36845,-2.94108 -1.48486,-4.01102 -0.91336,-0.87532 -2.01805,-1.32244 -3.2828,-1.32867 -0.80783,-0.004 -1.49129,0.15184 -2.18778,0.49882 -0.51644,0.25727 -1.16716,0.75729 -1.44954,1.11382 l -0.13307,0.16801 0.24154,0.31783 c 0.53336,0.70183 0.86632,1.62091 0.91568,2.52754 l 0.0259,0.47681 0.2647,0.182 c 0.43855,0.30154 1.04235,0.85734 1.41562,1.30309 0.74776,0.89297 1.21237,1.73653 1.62471,2.94986 0.0274,0.0806 0.3085,0.0408 0.74553,-0.10573 z"
+             id="path12906-7"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 817.11139,393.80306 c 1.35926,-0.73979 1.66853,-2.55661 0.62747,-3.68603 -1.20461,-1.30684 -3.24415,-0.97314 -3.9613,0.6481 -0.567,1.28178 0.15921,2.82284 1.54457,3.27739 0.43512,0.14281 1.29957,0.0272 1.78926,-0.23946 z"
+             id="path12908-6"
+             inkscape:connector-curvature="0" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 813.20252,388.16787 c 0.80327,-0.60383 1.58849,-0.89283 2.60385,-0.95837 l 0.43729,-0.0282 0.30326,-0.41073 c 0.9094,-1.23171 2.35851,-2.29285 3.7907,-2.77584 0.24216,-0.0817 0.37317,-0.14885 0.38261,-0.19622 0.0271,-0.1355 -0.21231,-0.86929 -0.425,-1.3029 -1.28389,-2.61755 -4.5117,-3.49659 -6.98529,-1.90234 -0.35712,0.23017 -0.91939,0.7614 -1.20871,1.14199 -0.30379,0.39963 -0.66594,1.15425 -0.80152,1.67012 -0.1617,0.61525 -0.19164,1.55587 -0.0683,2.14446 0.17457,0.83288 0.50483,1.52839 1.03131,2.17191 0.22067,0.26973 0.60198,0.64403 0.65608,0.64403 0.0112,0 0.1389,-0.089 0.28369,-0.19788 z"
+             id="path12910-3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:url(#marker2692-3-6);paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="path3033-9-1"
+           sodipodi:type="arc"
+           sodipodi:cx="151.88905"
+           sodipodi:cy="-916.93298"
+           sodipodi:rx="4.750298"
+           sodipodi:ry="4.750298"
+           sodipodi:start="3.403392"
+           sodipodi:end="2.0943951"
+           sodipodi:open="true"
+           d="m 147.30062,-918.16245 a 4.750298,4.750298 0 0 1 4.27775,-3.51066 4.750298,4.750298 0 0 1 4.69939,2.92227 4.750298,4.750298 0 0 1 -1.25662,5.38932 4.750298,4.750298 0 0 1 -5.50724,0.54242"
+           transform="rotate(150)" />
+      </g>
+      <g
+         transform="translate(239.39066,-49.018189)"
+         id="g13374-5"
+         style="display:inline">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect13317-7"
+           width="56.383286"
+           height="19.313293"
+           x="233.4393"
+           y="928.89246"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299"
+           rx="3.670577"
+           ry="3.670577" />
+        <path
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           d="M 254.44867,928.99407 V 948.1041"
+           id="path13319-4"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(1.1955076,0,0,1.1955076,-47.841868,-161.06569)"
+           id="g13330-1">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke-width:0.18748663"
+             d="m 906.74414,3455.8203 c -1.34376,-0.06 -1.20898,0.9355 -1.20898,20.7129 0,19.3406 10e-4,19.3981 0.38867,19.8906 0.22753,0.2895 0.57565,0.4942 0.83984,0.4942 0.2482,0 3.97403,-0.5451 8.28125,-1.2129 4.30726,-0.6678 12.21695,-1.8941 17.57617,-2.7246 5.99509,-0.9291 9.9092,-1.6191 10.17188,-1.791 l 0.42578,-0.2793 v -14.3965 c 0,-11.823 -0.0449,-14.4584 -0.25391,-14.7442 -0.26936,-0.3683 -0.52896,-0.4115 -24.77539,-4.1484 -5.15588,-0.7946 -9.40153,-1.5162 -9.43554,-1.6035 -0.0344,-0.087 -0.63638,-0.1582 -1.33789,-0.1582 -0.257,0 -0.47991,-0.03 -0.67188,-0.039 z m 1.7793,3.0391 c 0.31351,0 16.0335,2.4431 16.27539,2.5293 0.17839,0.064 0.23437,1.1174 0.23437,4.4023 v 4.3184 h 0.72657 c 0.39957,0 0.9901,0.053 1.3125,0.1172 l 0.58593,0.1172 v -4.2637 -4.2617 l 0.60938,0.08 c 0.33513,0.044 3.24632,0.4909 6.46875,0.9942 l 5.85937,0.914 v 12.6192 c 0,6.9402 -0.0204,12.6209 -0.0469,12.623 -0.0258,0 -2.93697,0.4485 -6.46875,0.9922 l -6.42188,0.9883 v -8.6543 -8.6543 l -0.70312,-0.1172 c -0.38669,-0.064 -0.97644,-0.1177 -1.31055,-0.1191 h -0.60742 l -0.0488,8.9453 -0.0488,8.9453 -0.65625,0.1524 c -0.3609,0.083 -4.09483,0.6816 -8.29687,1.3301 l -7.63867,1.1797 v -17.5879 c 0,-10.831 0.0673,-17.5879 0.17578,-17.5879 z"
+             transform="scale(0.26458333)"
+             id="path13321-8" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke-width:0.04960584"
+             d="m 242.27801,922.38895 c -0.0963,-0.0963 -0.0689,-0.24818 0.0875,-0.48396 0.0807,-0.12158 0.13964,-0.22805 0.13109,-0.23661 -0.009,-0.009 -0.20301,0.0301 -0.4321,0.0859 -0.22909,0.0558 -0.67882,0.11545 -0.9994,0.13258 l -0.58286,0.0312 v -0.24814 -0.24814 l 0.50088,-0.0329 c 0.51115,-0.0335 1.229,-0.1582 1.29892,-0.22564 0.0213,-0.0206 -0.0568,-0.0657 -0.17362,-0.10025 -0.37509,-0.11095 -0.48512,-0.29524 -0.28461,-0.4767 0.11462,-0.10374 0.14362,-0.0988 1.05427,0.18091 0.70696,0.2171 0.70798,0.22339 0.16651,1.03623 -0.3802,0.57074 -0.44571,0.64508 -0.56841,0.64508 -0.0763,0 -0.16547,-0.0268 -0.19821,-0.0595 z"
+             id="path13324-5" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke-width:0.04960584"
+             d="m 242.54092,919.50938 c -0.65331,-0.19947 -0.8185,-0.28619 -0.8185,-0.42968 0,-0.0437 0.19,-0.36389 0.42222,-0.7116 0.34664,-0.519 0.44369,-0.63217 0.54213,-0.63217 0.13893,0 0.27589,0.11885 0.27558,0.23917 -10e-5,0.0458 -0.0662,0.18274 -0.14685,0.30431 -0.0807,0.12158 -0.13884,0.22886 -0.1293,0.23841 0.01,0.01 0.14819,-0.0164 0.30809,-0.0576 1.26874,-0.32728 3.00394,-0.14143 4.35994,0.46697 0.34123,0.1531 0.39984,0.22287 0.35093,0.41776 -0.0491,0.19563 -0.1899,0.19725 -0.66385,0.008 -0.50591,-0.20241 -1.20861,-0.39382 -1.75933,-0.47922 -0.67598,-0.10484 -2.24009,0.007 -2.40499,0.17179 -0.0142,0.0142 0.0789,0.0521 0.20681,0.0842 0.2774,0.0698 0.41232,0.22961 0.32761,0.38791 -0.10637,0.19874 -0.19641,0.19792 -0.87049,-0.008 z"
+             id="path13326-9" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;stroke-width:0.04960584"
+             d="m 239.09331,921.69855 c -0.49914,-0.13369 -1.0511,-0.31788 -1.32696,-0.4428 -0.2966,-0.13432 -0.31003,-0.14811 -0.31003,-0.31836 0,-0.26132 0.15842,-0.30889 0.51037,-0.15323 0.31857,0.14088 1.21049,0.42418 1.33547,0.42418 0.0746,0 0.0888,0.0437 0.0888,0.27283 0,0.29468 -0.002,0.29645 -0.29764,0.21738 z"
+             id="path13328-7" />
+        </g>
+        <text
+           id="text13334-5"
+           y="943.49506"
+           x="256.93976"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83490753px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12087268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Jost;-inkscape-font-specification:'Jost Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.12087268px"
+             y="943.49506"
+             x="256.93976"
+             id="tspan13332-3"
+             sodipodi:role="line">50%</tspan></text>
+      </g>
+      <g
+         id="g13606-4"
+         style="display:inline"
+         transform="translate(46.930834,90.651844)">
+        <g
+           style="display:inline"
+           id="use21722-8-8"
+           transform="translate(-305.33365,56.590532)">
+          <rect
+             ry="3.670577"
+             rx="3.670577"
+             inkscape:export-ydpi="299"
+             inkscape:export-xdpi="299"
+             y="701.23865"
+             x="933.76038"
+             height="19.313316"
+             width="42.018768"
+             id="rect13174-8-8"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0055d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13176-3-8"
+             d="m 954.76974,701.34029 v 19.11003"
+             style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+             inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+             inkscape:export-xdpi="299"
+             inkscape:export-ydpi="299" />
+          <g
+             transform="translate(-1.7539563,-36.540756)"
+             id="g13186-9-9">
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 963.21432,751.66902 8.33128,-8.33131"
+               id="path13182-6-7"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path13184-4-7"
+               d="m 971.5456,751.66902 -8.33128,-8.33131"
+               style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+        <g
+           id="g13505-6"
+           transform="matrix(0.60831443,0,0,0.60831443,248.23273,296.17388)">
+          <path
+             id="path13394-3-4"
+             transform="scale(0.26458333)"
+             d="m 2464.1719,2898.9043 -0.088,1.8379 -0.088,1.8379 -20,0.1562 c -19.655,0.1543 -20.0379,0.1685 -22.1563,0.8164 -4.3381,1.327 -8.0722,3.6591 -11.2441,7.0215 -4.8968,5.1909 -7.041,10.735 -7.041,18.207 v 3.3575 h -4.707 -4.7051 v -1.9121 -1.9121 h -2.6465 -2.6484 v 14.707 14.7051 h 2.6347 2.6328 l 0.088,-1.8379 0.086,-1.8379 20,-0.1582 c 19.655,-0.1543 20.0379,-0.1665 22.1562,-0.8145 4.3382,-1.3269 8.0723,-3.6591 11.2442,-7.0215 4.8967,-5.1908 7.041,-10.7369 7.041,-18.2089 v -3.3555 h 4.707 4.7051 v 1.9121 1.9102 h 2.6465 2.6484 v -14.7051 -14.7051 h -2.6328 z m -34.8828,9.3066 c 3.4526,0 4.0652,0.078 6.3164,0.8457 6.0281,2.0569 10.7838,6.9485 12.8593,13.2286 0.6786,2.0536 0.7775,2.8406 0.7813,6.1777 0,3.4526 -0.078,4.0653 -0.8457,6.3164 -2.0628,6.0455 -7.0252,10.8578 -13.2285,12.8281 -2.6595,0.845 -7.172,1.1636 -9.793,0.6934 -7.0667,-1.2679 -13.1914,-6.7588 -15.5586,-13.9492 -0.6772,-2.0569 -0.7775,-2.85 -0.7812,-6.1836 0,-3.4527 0.078,-4.0653 0.8457,-6.3164 2.0568,-6.0282 6.9484,-10.7839 13.2285,-12.8594 2.0536,-0.6786 2.8386,-0.7775 6.1758,-0.7813 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29411754"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path13388-6-3"
+             d="m 642.08811,777.17096 c -0.44533,-0.23262 -0.64009,-0.4054 -0.83974,-0.74501 -0.17733,-0.30166 -0.20934,-0.44255 -0.20152,-0.88725 0.0114,-0.64812 0.28489,-1.24682 1.1217,-2.45537 l 0.55745,-0.8051 0.56258,0.84401 c 0.83566,1.25367 0.97506,1.51991 1.06591,2.03566 0.15026,0.85301 -0.27191,1.70707 -0.99267,2.00823 -0.32433,0.13551 -1.01848,0.13814 -1.27371,0.005 z"
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g13595-0"
+         style="display:inline"
+         transform="translate(46.930834,52.228514)">
+        <rect
+           ry="3.670577"
+           rx="3.670577"
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           y="777.14246"
+           x="628.4267"
+           height="19.313316"
+           width="42.018768"
+           id="rect13507-3"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0055d4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path13509-0"
+           d="m 649.43609,777.24411 v 19.11004"
+           style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+        <g
+           transform="matrix(0.60831443,0,0,0.60831443,248.23273,315.48717)"
+           id="g13523-9">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.29411754"
+             d="m 2464.1719,2898.9043 -0.088,1.8379 -0.088,1.8379 -20,0.1562 c -19.655,0.1543 -20.0379,0.1685 -22.1563,0.8164 -4.3381,1.327 -8.0722,3.6591 -11.2441,7.0215 -4.8968,5.1909 -7.041,10.735 -7.041,18.207 v 3.3575 h -4.707 -4.7051 v -1.9121 -1.9121 h -2.6465 -2.6484 v 14.707 14.7051 h 2.6347 2.6328 l 0.088,-1.8379 0.086,-1.8379 20,-0.1582 c 19.655,-0.1543 20.0379,-0.1665 22.1562,-0.8145 4.3382,-1.3269 8.0723,-3.6591 11.2442,-7.0215 4.8967,-5.1908 7.041,-10.7369 7.041,-18.2089 v -3.3555 h 4.707 4.7051 v 1.9121 1.9102 h 2.6465 2.6484 v -14.7051 -14.7051 h -2.6328 z m -34.8828,9.3066 c 3.4526,0 4.0652,0.078 6.3164,0.8457 6.0281,2.0569 10.7838,6.9485 12.8593,13.2286 0.6786,2.0536 0.7775,2.8406 0.7813,6.1777 0,3.4526 -0.078,4.0653 -0.8457,6.3164 -2.0628,6.0455 -7.0252,10.8578 -13.2285,12.8281 -2.6595,0.845 -7.172,1.1636 -9.793,0.6934 -7.0667,-1.2679 -13.1914,-6.7588 -15.5586,-13.9492 -0.6772,-2.0569 -0.7775,-2.85 -0.7812,-6.1836 0,-3.4527 0.078,-4.0653 0.8457,-6.3164 2.0568,-6.0282 6.9484,-10.7839 13.2285,-12.8594 2.0536,-0.6786 2.8386,-0.7775 6.1758,-0.7813 z"
+             transform="scale(0.26458333)"
+             id="path13519-2" />
+          <path
+             style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 642.08811,777.17096 c -0.44533,-0.23262 -0.64009,-0.4054 -0.83974,-0.74501 -0.17733,-0.30166 -0.20934,-0.44255 -0.20152,-0.88725 0.0114,-0.64812 0.28489,-1.24682 1.1217,-2.45537 l 0.55745,-0.8051 0.56258,0.84401 c 0.83566,1.25367 0.97506,1.51991 1.06591,2.03566 0.15026,0.85301 -0.27191,1.70707 -0.99267,2.00823 -0.32433,0.13551 -1.01848,0.13814 -1.27371,0.005 z"
+             id="path13521-5"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g13585-4"
+           transform="translate(0,0.01921883)">
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             d="m 652.89919,789.93375 c 1.683,2.0659 3.3737,2.0882 4.893,0 1.683,2.0659 3.3737,2.0882 4.893,0 1.683,2.0659 3.3737,2.0882 4.893,0"
+             style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.0975827;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path4107-0" />
+          <path
+             inkscape:export-ydpi="299"
+             inkscape:export-xdpi="299"
+             inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-autoborder-pictogram.png"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:connector-curvature="0"
+             d="m 661.10989,788.3524 v -3.9085 h 1.1495 l -2.0116,-2.5333 -2.0115,2.5333 h 1.1494 v 3.9085 z"
+             style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.48646951px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="path4149-5" />
+        </g>
+      </g>
+      <g
+         id="g13802-4"
+         style="display:inline"
+         transform="translate(259.80129,17.931454)">
+        <rect
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect13174-8-6-8"
+           width="42.018768"
+           height="19.313316"
+           x="415.55615"
+           y="881.75488"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299"
+           rx="3.670577"
+           ry="3.670577" />
+        <path
+           inkscape:connector-curvature="0"
+           id="use8061-1"
+           d="m 436.56561,881.8564 v 19.11"
+           style="display:inline;opacity:1;vector-effect:none;fill:#6f917c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+        <circle
+           r="2.4307513"
+           cy="891.39966"
+           cx="426.17157"
+           id="circle8089-2"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56800002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <circle
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.26699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="circle8091-8"
+           cx="426.17157"
+           cy="891.39966"
+           r="5.4220262" />
+        <g
+           id="g13186-9-2-9"
+           transform="translate(-520.29557,143.90811)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path13182-6-2-3"
+             d="m 963.21432,751.66902 8.33128,-8.33131"
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 971.5456,751.66902 -8.33128,-8.33131"
+             id="path13184-4-4-6"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         transform="translate(-725.68229,-21.170402)"
+         id="g13916">
+        <g
+           style="display:inline"
+           id="g13793-8"
+           transform="translate(985.48358,0.67857622)">
+          <rect
+             inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="rect13741-0"
+             width="42.018768"
+             height="19.313316"
+             x="415.55615"
+             y="900.86487"
+             inkscape:export-xdpi="299"
+             inkscape:export-ydpi="299"
+             rx="3.670577"
+             ry="3.670577" />
+          <g
+             style="fill:#ffffff;stroke:none"
+             transform="translate(-170.2677,248.32273)"
+             id="g8108-2">
+            <circle
+               r="2.4307513"
+               cy="662.18695"
+               cx="617.58453"
+               id="circle8027-1"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            <path
+               d="m 616.50272,654.84103 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="658.87842"
+               sodipodi:cx="617.58453"
+               sodipodi:type="arc"
+               id="path8029-0"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+            <path
+               transform="matrix(0,1,1,0,0,0)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8031-5"
+               sodipodi:type="arc"
+               sodipodi:cx="662.18695"
+               sodipodi:cy="614.18604"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m 661.10514,610.14865 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z" />
+            <path
+               d="m 661.10514,-625.02048 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="-620.98309"
+               sodipodi:cx="662.18695"
+               sodipodi:type="arc"
+               id="path8033-1"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               transform="rotate(90)" />
+            <path
+               transform="scale(-1)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8035-1"
+               sodipodi:type="arc"
+               sodipodi:cx="-617.58453"
+               sodipodi:cy="-665.51917"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m -618.66635,-669.55655 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08181,4.03738 z" />
+            <path
+               d="m 881.18119,-211.18636 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="-207.14897"
+               sodipodi:cx="882.263"
+               sodipodi:type="arc"
+               id="path8037-0"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               transform="rotate(60)" />
+            <path
+               transform="matrix(0.50000001,0.8660254,0.8660254,-0.50000001,0,0)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8039-8"
+               sodipodi:type="arc"
+               sodipodi:cx="882.263"
+               sodipodi:cy="200.35188"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m 881.18119,196.3145 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03738 z" />
+            <path
+               transform="rotate(30)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8041-5"
+               sodipodi:type="arc"
+               sodipodi:cx="865.93738"
+               sodipodi:cy="261.27991"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m 864.85556,257.24252 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08181,4.03739 z" />
+            <path
+               d="m 864.85556,-272.11438 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08181,4.03738 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="-268.077"
+               sodipodi:cx="865.93738"
+               sodipodi:type="arc"
+               id="path8043-0"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               transform="matrix(0.8660254,0.50000001,0.50000001,-0.8660254,0,0)" />
+            <path
+               d="m -265.76025,858.50143 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="862.53882"
+               sodipodi:cx="-264.67844"
+               sodipodi:type="arc"
+               id="path8045-6"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               transform="rotate(-60)" />
+            <path
+               transform="matrix(0.50000001,-0.8660254,-0.8660254,-0.50000001,0,0)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8047-4"
+               sodipodi:type="arc"
+               sodipodi:cx="-264.67844"
+               sodipodi:cy="-869.33594"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m -265.76025,-873.37333 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z" />
+            <path
+               transform="rotate(150)"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               id="path8049-6"
+               sodipodi:type="arc"
+               sodipodi:cx="-203.75043"
+               sodipodi:cy="-885.66156"
+               sodipodi:rx="4.1798115"
+               sodipodi:ry="4.1798115"
+               sodipodi:start="4.4505896"
+               sodipodi:end="4.9741884"
+               d="m -204.83224,-889.69895 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z" />
+            <path
+               d="m -204.83224,874.82699 a 4.1798115,4.1798115 0 0 1 2.16363,0 l -1.08182,4.03739 z"
+               sodipodi:end="4.9741884"
+               sodipodi:start="4.4505896"
+               sodipodi:ry="4.1798115"
+               sodipodi:rx="4.1798115"
+               sodipodi:cy="878.86438"
+               sodipodi:cx="-203.75043"
+               sodipodi:type="arc"
+               id="path8051-2"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56792933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               transform="matrix(-0.8660254,0.50000001,0.50000001,0.8660254,0,0)" />
+          </g>
+          <path
+             inkscape:connector-curvature="0"
+             id="use13743-5"
+             d="m 436.56561,900.9664 v 19.11"
+             style="display:inline;opacity:1;vector-effect:none;fill:#6f917c;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+             inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+             inkscape:export-xdpi="299"
+             inkscape:export-ydpi="299" />
+          <circle
+             r="2.4307513"
+             cy="910.50964"
+             cx="426.17157"
+             id="circle13745-8"
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.56800002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <circle
+             style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.26699996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             id="circle13747-6"
+             cx="426.17157"
+             cy="910.50964"
+             r="5.4220262" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="536.86847"
+         y="861.18567"
+         id="text35022-2"><tspan
+           id="tspan35024-8"
+           sodipodi:role="line"
+           x="536.86847"
+           y="861.18567"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px">Выключить вентилятор</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="537.74371"
+         y="842.70984"
+         id="text10527-4"><tspan
+           id="tspan10529-7"
+           sodipodi:role="line"
+           x="537.74371"
+           y="842.70984"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px">Включить вентилятор</tspan></text>
+      <text
+         id="text13944"
+         y="887.56238"
+         x="536.86847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           y="887.56238"
+           x="536.86847"
+           sodipodi:role="line"
+           id="tspan13942">Задать уровень</tspan><tspan
+           id="tspan13946"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           y="897.72235"
+           x="536.86847"
+           sodipodi:role="line">открытия окон</tspan></text>
+      <text
+         id="text13950"
+         y="862.36041"
+         x="725.03149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           y="862.36041"
+           x="725.03149"
+           sodipodi:role="line"
+           id="tspan13948">Выключить насос</tspan></text>
+      <text
+         id="text13954"
+         y="843.25037"
+         x="725.90674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           y="843.25037"
+           x="725.90674"
+           sodipodi:role="line"
+           id="tspan13952">Включить насос</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="725.90674"
+         y="893.0777"
+         id="text13958"><tspan
+           id="tspan13956"
+           sodipodi:role="line"
+           x="725.90674"
+           y="893.0777"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px">Включить индикатор</tspan></text>
+      <text
+         id="text13962"
+         y="912.39099"
+         x="725.90674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           y="912.39099"
+           x="725.90674"
+           sodipodi:role="line"
+           id="tspan13960">Выключить индикатор</tspan></text>
+      <g
+         id="g6478"
+         transform="translate(-392.58279,248.85089)"
+         inkscape:export-xdpi="200.01727"
+         inkscape:export-ydpi="200.01727"
+         style="display:inline">
+        <rect
+           ry="3.5079126"
+           rx="0"
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           y="664.09479"
+           x="871.19257"
+           height="18.728638"
+           width="50.603443"
+           id="rect6462"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.19496167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6464"
+           d="m 891.93407,663.90407 v 19.11"
+           style="display:inline;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           inkscape:export-xdpi="299"
+           inkscape:export-ydpi="299" />
+        <path
+           inkscape:export-ydpi="299"
+           inkscape:export-xdpi="299"
+           inkscape:export-filename="/home/dralex/Disk/ЦИОТ/Кружки/Vostok/Стандарты/example-cleaner-pictogram.png"
+           style="display:inline;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none"
+           d="m 891.93407,663.90407 v 19.11"
+           id="path6466"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text6470"
+           y="678.62457"
+           x="893.98187"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.83490753px;line-height:60.00000238%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12087268px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.11111069px;font-family:Jost;-inkscape-font-specification:'Jost Medium';fill:#ffffff;fill-opacity:1;stroke-width:0.12087268px"
+             y="678.62457"
+             x="893.98187"
+             id="tspan6468"
+             sodipodi:role="line">30м</tspan></text>
+        <circle
+           r="4.9092612"
+           cy="673.35065"
+           cx="881.53522"
+           id="circle6472"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:url(#marker15125);paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path6474"
+           d="m 881.48347,668.80317 v 4.7543 h 2.4805"
+           style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-end:url(#marker15125);paint-order:normal" />
+        <path
+           sodipodi:nodetypes="ssssssssssssssssss"
+           inkscape:connector-curvature="0"
+           id="path6476"
+           d="m 874.64537,662.80287 c -2.5702,0 -4.6699,2.0997 -4.6699,4.6699 v 11.9727 c 0,2.5702 2.0997,4.6699 4.6699,4.6699 h 43.82139 c 2.57019,0 4.67,-2.0997 4.67,-4.6699 v -11.9727 c 0,-2.5702 -2.09981,-4.6699 -4.67,-4.6699 z m 0,2 h 43.82139 c 1.4968,0 2.67,1.1731 2.67,2.6699 v 11.9727 c 0,1.4968 -1.1732,2.6699 -2.67,2.6699 h -43.82139 c -1.4968,0 -2.6699,-1.1731 -2.6699,-2.6699 v -11.9727 c 0,-1.4968 1.1731,-2.6699 2.6699,-2.6699 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#150000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:80.00000119%;font-family:Jura;-inkscape-font-specification:Jura;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="536.86847"
+         y="925.86603"
+         id="text6587"><tspan
+           sodipodi:role="line"
+           x="536.86847"
+           y="925.86603"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.69999981px;line-height:80.00000119%;font-family:Jost;-inkscape-font-specification:'Jost Light';stroke-width:0.26458332px"
+           id="tspan6585">Событие таймера</tspan></text>
+    </g>
+  </g>
+</svg>

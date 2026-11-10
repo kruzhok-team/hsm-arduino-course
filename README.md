@@ -7,6 +7,7 @@
 Авторы курса: ![Алексей Федосеев](mailto:aleksey@fedoseev.net) и ![Анита Ходова](mailto:).
 
 Курс состоит из введения, 8 занятий, промежуточного и финального теста:
+
 * ![Устройство курса](00-course-structure.md)
 * ![Занятие 1. Введение в цифровую электронику и микроконтроллеры](01-digital-electronics.md)
 * ![Занятие 2. Машина состояний для управления светофором на Arduino](02-traffic-light-sm.md)
@@ -19,6 +20,8 @@
 * ![Занятие 6. Устройство микроконтроллера. Язык С++ для программирования
   микроконтроллеров](06-mcu-and-cpp.md)
 * ![Занятие 7. Программирование Arduino на С++](07-arduino-cpp.md)
+* ![Занятие 8. Управление внешними устройствами: использование двигателей и
+  реле](08-motors-and-relays.md)
 
 Текст и изображения в курсе распространяются под лицензией GNU Free
 Documentation License (версия 1.3). Исходный код распространяется под
@@ -31,6 +34,6 @@ Documentation License (версия 1.3). Исходный код распрос
 
 ## Дополнительные ссылки
 
-* HSM for Embedded Systems: https://www.state-machine.com/
-* Открытый онлайн-курс "Программирование автономных систем": https://www.lektorium.tv/programmirovanie-avtonomnyh-sistem
-* Программирование в Национальной киберфизической платформе "Берлога": https://platform.kruzhok.org
+* ![https://www.state-machine.com/](HSM for Embedded Systems)
+* ![Открытый онлайн-курс «Программирование автономных систем»](https://www.lektorium.tv/programmirovanie-avtonomnyh-sistem)
+* ![Программирование в Национальной киберфизической платформе «Берлога»](https://platform.kruzhok.org)
