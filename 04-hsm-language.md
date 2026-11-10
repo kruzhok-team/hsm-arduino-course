@@ -200,7 +200,7 @@ flag).
 
 На основе данных режимов можно изобразить следующую диаграмму машины состояний:
 
-![](diagrams/4/hsm-box-simple.svg)
+![Диаграмма машины состояний для игры](diagrams/4/hsm-box-simple.svg)
 
 Кратко прокомментируем диаграмму:
 
@@ -270,27 +270,27 @@ Uno». Добавьте в программу необходимые компо�
 избежать ошибок, можно добавить подпись — надпись до 3-х символов с возможностью выбора
 цвета. Подпись можно настроить при создании или редактировании компонента.
 
-![](images/cybide-add-component.png)
+![Добавить компонент в Cyberiada IDE](images/cybide-add-component.png)
 
 Перечень добавленных компонентов светодиодов:
 
-![](images/cybide-components-list.png)
+![Список добавленных компонентов](images/cybide-components-list.png)
 
-Перечень добавленных компонентов светодиодов:
+Перечень добавленных компонентов счетчиков:
 
-![](images/cybide-components-counters-list.png)
+![Список добавленных компонентов счетчиков](images/cybide-components-counters-list.png)
 
 Затем создадим следующую программу работы:
 
-![](images/hsm-simple-diagram.png)
+![Простая диаграмма](images/hsm-simple-diagram.png)
 
 Более детальные скриншоты отдельных состояний:
 
-![](images/hsm-simple-diagram-1.png)
+![Состояния диаграммы 1](images/hsm-simple-diagram-1.png)
 
-![](images/hsm-simple-diagram-2.png)
+![Состояния диаграммы 2](images/hsm-simple-diagram-2.png)
 
-![](images/hsm-simple-diagram-3.png)
+![Состояния диаграммы 3](images/hsm-simple-diagram-3.png)
 
 Если у вас есть желание, можно реализовать более интересную и сложную программу для
 определителя победителя. Обратный отсчет, текущее количество очков команд и результаты
@@ -300,13 +300,13 @@ Uno». Добавьте в программу необходимые компо�
 
 Примером решения может быть следующая диаграмма:
 
-![](diagrams/4/hsm-box.svg)
+![Диаграмма для игры в захват флага](diagrams/4/hsm-box.svg)
 
 Кроме того, само устройство можно поместить в пластиковый корпус
 
-![](images/hsm-complex-box.png)
+![Корпус для устройства](images/hsm-complex-box.png)
 
-![](images/hsm-complex-internal.png)
+![Внутренний состав устройства](images/hsm-complex-internal.png)
 
 Подробнее познакомиться с документацией по данному проекту можно в [репозитории на
 GitHub](https://github.com/dralex/hsm-box).
