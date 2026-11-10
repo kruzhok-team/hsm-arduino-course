@@ -261,7 +261,7 @@ IDE для того, чтобы научиться работать с диаг�
 
 Cyberiada IDE — это бесплатная отечественная среда разработки с открытым исходными кодом
 для программирования умных систем с помощью *машин состояний*. Установить редактор можно,
-скачав его по ![ссылке](https://method.insitulab.pro/cyberiada).
+скачав его по [ссылке](https://method.insitulab.pro/cyberiada).
 
 ![Интерфейс Cyberiada IDE](images/cyberiada-ide.png)
 
@@ -381,8 +381,8 @@ Cyberiada IDE — это бесплатная отечественная сре�
 
 ## Дополнительные материалы по теме
 
-- ![Вводный курс по цифровой электронике «Основы схемотехники»](https://platform.kruzhok.org/tpost/axxie2oba1-osnovi-shemotehniki)
-- Модуль ![«От программирования к
+- [Вводный курс по цифровой электронике «Основы схемотехники»](https://platform.kruzhok.org/tpost/axxie2oba1-osnovi-shemotehniki)
+- Модуль [«От программирования к
   киберфизике»](https://tutor.lektorium.tv/programmirovanie-avtonomnyh-sistem/ot-programmirovaniya-v-igre)
   онлайн-курса «Программирование автономных систем на примере игры "Берлога: Защита
   пасеки"»
