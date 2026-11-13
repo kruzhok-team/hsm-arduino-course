@@ -2,10 +2,10 @@
 #include "LCD_I2C.h"
 
 #define LCD_DEVICE       0x27
-#define LCD_ROWS         16
-#define LCD_COLUMNS      2
+#define LCD_ROWS         2
+#define LCD_COLUMNS      16
 
-LCD_I2C lcd(LCD_DEVICE, LCD_ROWS, LCD_COLUMNS);
+LCD_I2C lcd(LCD_DEVICE, LCD_COLUMNS, LCD_ROWS);
 
 int time;
 

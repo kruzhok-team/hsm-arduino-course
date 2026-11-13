@@ -34,22 +34,6 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-<circle cx="0" cy="0" r="10"/>
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,725.97,167.976)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
@@ -425,8 +409,8 @@ font-family="Courier New" font-size="16" font-weight="700" font-style="normal"
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,0.999618,50.2308)"
 font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
 >
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="153.938" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
- >Скан</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="115.563" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+ >Поиск мусора</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,0.999618,50.2308)"
@@ -568,6 +552,22 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,15.9939,152.567)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="0" cy="0" r="10"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,179.057,10.9958)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
@@ -792,13 +792,13 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,-51.4803,-109.083)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M398.438,204.205 L607.116,204.272"/>
+<path vector-effect="none" fill-rule="evenodd" d="M398.75,204.205 L605.731,204.272"/>
 </g>
 
 <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,-51.4803,-109.083)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M607.116,204.272 L598.457,199.269 L598.454,209.269 L607.116,204.272"/>
+<path vector-effect="none" fill-rule="evenodd" d="M605.731,204.272 L597.073,199.269 L597.069,209.269 L605.731,204.272"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.999618,0,0,0.999618,-51.4803,-109.083)"

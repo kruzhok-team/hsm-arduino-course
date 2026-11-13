@@ -36,7 +36,7 @@ void next_second(int* time)
 
 int main(int argc, char** argv)
 {
-    int state;
+    int state = STATE_INIT;
 
     time = 0;
     while (time < 300) {

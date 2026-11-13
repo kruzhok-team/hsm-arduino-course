@@ -48,7 +48,9 @@ description/ Пример описания схемы, который может
 
 target/ Hoover
 
-cyberiadaEditorView/ 1.32231 -62 0</data>
+cyberiadaEditorView/ 1.32231 87 -149
+
+regionGeometry/ stored</data>
     </node>
     <node id="init">
       <data key="dVertex">initial</data>
@@ -62,13 +64,16 @@ cyberiadaEditorView/ 1.32231 -62 0</data>
         <rect x="571.612500" y="111.925000" width="412.268750" height="330.481250"/>
       </data>
       <graph id="n0:" edgedefault="directed">
+        <data key="dGeometry">
+          <rect x="0.000000" y="27.000000" width="412.268750" height="303.481250"/>
+        </data>
         <node id="n0::n1">
           <data key="dName">Сближение</data>
           <data key="dData">entry/
 МодульДвижения.ДвигатьсяКЦели()
 </data>
           <data key="dGeometry">
-            <rect x="34.118750" y="40.256250" width="344.875000" height="86.906250"/>
+            <rect x="34.118750" y="26.756250" width="344.875000" height="86.906250"/>
           </data>
         </node>
         <node id="n0::n2">
@@ -77,13 +82,13 @@ cyberiadaEditorView/ 1.32231 -62 0</data>
 Пылесос.УбратьЦель()
 </data>
           <data key="dGeometry">
-            <rect x="35.631250" y="214.981250" width="342.606250" height="65.700000"/>
+            <rect x="35.631250" y="201.481250" width="342.606250" height="65.700000"/>
           </data>
         </node>
       </graph>
     </node>
     <node id="n3">
-      <data key="dName">Скан</data>
+      <data key="dName">Поиск мусора</data>
       <data key="dData">entry/
 Сенсор.ПоискЦелиПоДистанции(мин)
 
@@ -132,10 +137,10 @@ exit/
     <edge id="n3-n0::n1" source="n3" target="n0::n1">
       <data key="dData">Сенсор.ЦельПолучена/</data>
       <data key="dSourcePoint">
-        <point x="345.937500" y="44.830322"/>
+        <point x="346.250000" y="44.830322"/>
       </data>
       <data key="dTargetPoint">
-        <point x="1.384375" y="38.590265"/>
+        <point x="0.000000" y="38.590265"/>
       </data>
       <data key="dLabelGeometry">
         <rect x="354.556250" y="13.193750" width="190.875000" height="27.000000"/>

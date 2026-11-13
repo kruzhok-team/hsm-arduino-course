@@ -36,9 +36,11 @@
       <data key="dName">CGML_META</data>
       <data key="dData">standardVersion/ 1.0
 
-cyberiadaEditorView/ 1.21 -1506 -1020
+cyberiadaEditorView/ 1.21 -1325 -1059
 
 geometry/ full
+
+regionGeometry/ stored
 
 transitionOrder/ actionFirst
 
@@ -57,7 +59,7 @@ eventPropagation/ block</data>
       </data>
     </node>
     <node id="n2">
-      <data key="dName">Коробка открыта</data>
+      <data key="dName">Передача управления</data>
       <data key="dData">entry/
 Передать пульт
 </data>
