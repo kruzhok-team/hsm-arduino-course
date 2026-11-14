@@ -1,5 +1,5 @@
 [Введение в программирование машин состояний (ПРИМС) в Arduino]: #
-[Авторы курса: Алексей Федосеев aleksey@fedoseev.net и Анита Ходова anita-hodova@inbox.ru]: #
+[Авторы курса: Алексей Федосеев aleksey@fedoseev.net, Анита Ходова anita-hodova@inbox.ru и Глеб Чекмарев gl.chekmarev@yandex.ru]: #
 [Текст распространяется под лицензией GNU Free Documentation License (версия 1.3)]: #
 
 # 2. Машины состояний для управления светофором на Arduino

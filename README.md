@@ -4,7 +4,8 @@
 расширенных иерархических машин состояний (ПРИМС) для контроллеров Arduino с
 использованием среды Cyberiada IDE.
 
-Авторы курса: [Алексей Федосеев](mailto:aleksey@fedoseev.net) и [Анита Ходова](mailto:anita-hodova@inbox.ru).
+Авторы курса: [Алексей Федосеев](mailto:aleksey@fedoseev.net), [Анита Ходова](mailto:anita-hodova@inbox.ru)
+и [Глеб Чекмарев](gl.chekmarev@yandex.ru).
 
 Курс состоит из введения, 8 занятий, промежуточного и финального теста:
 
