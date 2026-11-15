@@ -41,58 +41,6 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
- >Микроволновка с грилем</text>
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,343.113,251.602)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
@@ -479,22 +427,6 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-<circle cx="0" cy="0" r="10"/>
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
-font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
->
-</g>
-
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,312.639,344.301)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
@@ -595,7 +527,7 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="71.1563" y="18" font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
- >set_temperature(me-&gt;teperature);</text>
+ >set_temperature(me-&gt;temperature);</text>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,113.292,329.44)"
@@ -678,6 +610,22 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,113.292,359.161)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+<circle cx="0" cy="0" r="10"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,599.056,182.294)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>
@@ -881,6 +829,58 @@ font-family="Courier New" font-size="16" font-weight="400" font-style="normal"
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,715.394,77.702)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="18" font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+ >Микроволновка с грилем</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
+font-family="Courier New" font-size="16" font-weight="700" font-style="normal" 
+>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.998902,0,0,0.998902,8.99011,4.99451)"
 font-family="Courier New" font-size="16" font-weight="400" font-style="normal" 
 >
 </g>

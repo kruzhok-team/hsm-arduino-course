@@ -38,7 +38,9 @@
 
 geometry/ full
 
-cyberiadaEditorView/ 1.70272 0 0
+cyberiadaEditorView/ 0.873765 -570 -816
+
+regionGeometry/ stored
 
 transitionOrder/ actionFirst
 
@@ -56,6 +58,9 @@ heater_off();
         <rect x="52.808746" y="52.798844" width="579.363892" height="396.160400"/>
       </data>
       <graph id="n0:" edgedefault="directed">
+        <data key="dGeometry">
+          <rect x="0.000000" y="54.000000" width="579.363892" height="315.160400"/>
+        </data>
         <node id="n2">
           <data key="dName">Поджаривание</data>
           <data key="dData">entry/
@@ -65,25 +70,25 @@ exit/
 disarm_time_event();
 </data>
           <data key="dGeometry">
-            <rect x="45.068108" y="71.539001" width="429.131012" height="83.753845"/>
+            <rect x="45.068108" y="31.039001" width="429.131012" height="83.753845"/>
           </data>
         </node>
         <node id="n0::n0">
           <data key="dVertex">initial</data>
           <data key="dGeometry">
-            <point x="545.905884" y="115.195732"/>
+            <point x="545.905884" y="74.695732"/>
           </data>
         </node>
         <node id="n0::n1">
           <data key="dName">Выпекание</data>
           <data key="dData">entry/
-set_temperature(me-&gt;teperature);
+set_temperature(me-&gt;temperature);
 
 exit/
 set_temperature(0);
 </data>
           <data key="dGeometry">
-            <rect x="44.608097" y="235.503609" width="429.131012" height="83.753845"/>
+            <rect x="44.608097" y="195.003609" width="429.131012" height="83.753845"/>
           </data>
         </node>
       </graph>
