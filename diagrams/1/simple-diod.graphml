@@ -27,7 +27,7 @@
   <key id="dFormalName" for="node" attr.name="formalName" attr.type="string"/>
   <graph id="G0" edgedefault="directed">
     <data key="dStateMachine"/>
-    <data key="dName">Светофор</data>
+    <data key="dName">Мигание диода</data>
     <node id="nMeta">
       <data key="dNote">formal</data>
       <data key="dName">CGML_META</data>
@@ -36,6 +36,8 @@
 cyberiadaEditorView/ 1.1793 0 0
 
 geometry/ full
+
+regionGeometry/ stored
 
 transitionOrder/ actionFirst
 
