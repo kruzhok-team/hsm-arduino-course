@@ -1,7 +1,8 @@
 #include <stdio.h>
+// Этот пример потребует для запуска GNU-Linux, UNIX-совместимую ОС или WSL
 #include <unistd.h>
 
-int main(int argc, char** argv)
+int main()
 {
     int time = 0;
     
@@ -12,6 +13,9 @@ int main(int argc, char** argv)
         snprintf(buffer, 6, "%02d:%02d", minutes, seconds);
         printf("Time: %s\n", buffer);
         time++;
+        if (time >= 3600) {
+            time = 0;
+        }
         sleep(1);
     }
 }

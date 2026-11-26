@@ -27,11 +27,12 @@ void loop()
     char buffer[6];
     int minutes = time / 60;
     int seconds = time % 60;
-    snprintf(buffer, 6, "%02d:%02d", minutes, seconds);
-    
+    snprintf(buffer, 6, "%02d:%02d", minutes, seconds);    
     lcd.setCursor(6, 0);
-    lcd.print(buffer);
-    
+    lcd.print(buffer);    
     time++;
+    if (time >= 3600) {
+        time = 0; // Сбросить счетчик при достижении часа
+    }
     delay(1000);
 }

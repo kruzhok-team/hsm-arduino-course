@@ -59,7 +59,7 @@ public:
      * Example:
      *  #include <LCD_I2C.h>
      *  extern TwoWire Wire1;
-     *  LCD_I2C(Wire1, 0x27, 16, 2);
+     *  LCD_I2C lcd(Wire1, 0x27, 16, 2);
      *
      */
     LCD_I2C(TwoWire& wire, uint8_t address, uint8_t columns = 16, uint8_t rows = 2);

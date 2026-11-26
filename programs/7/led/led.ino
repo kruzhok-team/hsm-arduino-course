@@ -11,7 +11,7 @@ void setup()
 void loop()
 {
     digitalWrite(LED, light);
-    if (light) {
+    if (light == HIGH) {
         light = LOW;
     } else {
         light = HIGH;
