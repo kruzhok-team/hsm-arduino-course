@@ -2,22 +2,22 @@
 #include <math.h>
 
 #define DAY_LIGHT 330
-int time = 0;
+int timer = 0;
 
 /* функция открывает и закрывает окно */
 void set_window(int open)
 {
     if (open) {
-        printf("Time %d: Window opened!\n", time);
+        printf("Time %d: Window opened!\n", timer);
     } else {
-        printf("Time %d: Window closed!\n", time);
+        printf("Time %d: Window closed!\n", timer);
     }
 }
 
 /* функция возвращает уровень освещенности */
 int get_light()
 {
-    float s = sin((float)time * M_PI / 180.0);
+    float s = sin((float)timer * M_PI / 180.0);
     return (int)(1000 * s * s);
 }
 
@@ -38,8 +38,8 @@ int main(int argc, char** argv)
 {
     int state = STATE_INIT;
 
-    time = 0;
-    while (time < 300) {
+    timer = 0;
+    while (timer < 300) {
         /* этот цикл будет выполняться раз в секунду */        
         switch (state) {
         case STATE_INIT:
@@ -62,8 +62,7 @@ int main(int argc, char** argv)
             printf("Unknown state %d!\n", state);
             return 1;
         }
-        next_second(&time);
+        next_second(&timer);
     }
     return 0;
 }
-
