@@ -51,8 +51,6 @@ private:
     const int* time;
 };
 
-// продолжение программы
-
 const int STATE_INIT = 0;
 const int STATE_DAY = 1;
 const int STATE_NIGHT = 2;
@@ -94,7 +92,7 @@ private:
     void set_state(int s) { state = s; }
 
     int state;
-    const int* time;
+    const int* time; // не используется в данный момент, но может пригодиться
     Window* window;
     LightSensor* light_sensor;
 };

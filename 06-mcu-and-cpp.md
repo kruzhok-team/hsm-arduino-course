@@ -187,7 +187,7 @@ int main()
 #include <stdio.h>
 #include <math.h>
 
-#define DAY_LIGHT 330
+#define DAY_LIGHT 300
 int time = 0;
 
 /* функция виртуально открывает и закрывает окно */
@@ -572,7 +572,7 @@ private:
 // класс датчика освещенности
 class LightSensor {
 public:
-    const int DAY_LIGHT = 330;
+    const int DAY_LIGHT = 300;
 
     LightSensor(const int* t):
         time(t)
@@ -681,6 +681,7 @@ private:
     void set_state(int s) { state = s; }
 
     int state;
+    const int* time; // не используется в данный момент, но может пригодиться
     Window* window;
     LightSensor* light_sensor;
 };
