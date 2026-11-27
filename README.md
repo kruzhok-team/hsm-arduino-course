@@ -5,7 +5,7 @@
 использованием среды Cyberiada IDE.
 
 Авторы курса: [Алексей Федосеев](mailto:aleksey@fedoseev.net), [Анита Ходова](mailto:anita-hodova@inbox.ru)
-и [Глеб Чекмарев](gl.chekmarev@yandex.ru).
+и [Глеб Чекмарев](mailto:gl.chekmarev@yandex.ru).
 
 Курс состоит из введения, 8 занятий, промежуточного и финального теста:
 

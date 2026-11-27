@@ -26,7 +26,7 @@ private:
 // класс датчика освещенности
 class LightSensor {
 public:
-    const int DAY_LIGHT = 330;
+    const int DAY_LIGHT = 300;
 
     LightSensor(const int* t):
         time(t)
@@ -106,8 +106,8 @@ int main(int argc, char** argv)
     LightSensor sensor(&time);
     StateMachine sm(&time, &window, &sensor);
 
-    while (time < 300) {
-        /* этот цикл будет выполняться раз в секунду */
+    while (time < 600) {
+        /* этот цикл будет выполняться раз в секунду 10 минут */
         try {
             sm.step_sec();
         } catch(const char* e) {

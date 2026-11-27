@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <math.h>
-/* Константа M_PI может быть неопределена в вашей системе, в этом случае добавьте
-   _USE_MATH_DEFINES в параметры компилятора или переопределите эту переменную */
+/* Константа M_PI может быть не определена в вашей системе, в этом случае добавьте
+   -D_DEFAULT_SOURCE (GCC/glibc) или -D_USE_MATH_DEFINES (MSVC/MinGW) в параметры
+   компилятора или переопределите эту переменную */
 
-#define DAY_LIGHT 330
+#define DAY_LIGHT 300
 int timer = 0;
 
 /* функция открывает и закрывает окно */
@@ -41,8 +42,8 @@ int main(int argc, char** argv)
     int state = STATE_INIT;
 
     timer = 0;
-    while (timer < 300) {
-        /* этот цикл будет выполняться раз в секунду */        
+    while (timer < 600) {
+        /* этот цикл будет выполняться раз в секунду 10 минут */        
         switch (state) {
         case STATE_INIT:
             state = STATE_DAY;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Этот пример потребует для запуска GNU-Linux, UNIX-совместимую ОС или WSL
+// Этот пример потребует для запуска GNU/Linux, UNIX-совместимую ОС или WSL
 #include <unistd.h>
 
 int main()
@@ -10,7 +10,7 @@ int main()
         char buffer[6];
         int minutes = time / 60;
         int seconds = time % 60;
-        snprintf(buffer, 6, "%02d:%02d", minutes, seconds);
+        snprintf(buffer, 6, "%02d:%02d", minutes % 60, seconds % 60); // по 2 знака на мин и сек
         printf("Time: %s\n", buffer);
         time++;
         if (time >= 3600) {

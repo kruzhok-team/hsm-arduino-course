@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="206.21783mm"
+   width="200.73718mm"
    height="53.0994mm"
-   viewBox="0 0 206.21783 53.0994"
+   viewBox="0 0 200.73717 53.0994"
    version="1.1"
    id="svg1056"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="591.87553"
-     inkscape:cy="125.12222"
+     inkscape:zoom="1.4"
+     inkscape:cx="530.50916"
+     inkscape:cy="105.93095"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(188.70873,-122.28363)">
+     transform="translate(187.57481,-122.28363)">
     <text
        id="text975"
        y="147.68253"
@@ -1298,7 +1298,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1397"
-       d="m -83.229081,125.40478 c 34.200169,4.76298 -23.519719,17.77341 -4.810849,20.98065"
+       d="m -83.229081,125.40478 c 27.728757,3.81804 -16.960519,11.91478 -4.810849,20.98065"
        style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1401)"
        inkscape:export-xdpi="199"
        inkscape:export-ydpi="199" />
@@ -1358,20 +1358,20 @@
        inkscape:export-ydpi="199" />
     <text
        id="text1461"
-       y="130.84454"
-       x="17.85223"
+       y="131.22252"
+       x="13.505504"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:40.0000006%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="199"
        inkscape:export-ydpi="199"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:40.0000006%;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:end;text-anchor:end;fill:#0000ff;stroke-width:0.26458332px"
-         y="130.84454"
-         x="17.852232"
+         y="131.22252"
+         x="13.505507"
          sodipodi:role="line"
          id="tspan1463">адрес: 0x1003, указатель на 0x1011</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:40.0000006%;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:end;text-anchor:end;fill:#0000ff;stroke-width:0.26458332px"
-         y="135.88849"
-         x="17.852232"
+         y="136.26646"
+         x="13.505506"
          sodipodi:role="line"
          id="tspan1618">по адресу 0x1011: сохранено 14 байт</tspan></text>
     <text
@@ -1416,17 +1416,17 @@
        inkscape:export-xdpi="199"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:40.0000006%;font-family:Jura;-inkscape-font-specification:'Jura Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-188.77281"
-       y="157.83876"
+       x="-187.63889"
+       y="158.40573"
        id="text1628"><tspan
          id="tspan1626"
          sodipodi:role="line"
-         x="-188.77281"
-         y="157.83876"
+         x="-187.63889"
+         y="158.40573"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:40.0000006%;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px">массив по адресу 0x1020:</tspan><tspan
          sodipodi:role="line"
-         x="-188.77281"
-         y="162.88271"
+         x="-187.63889"
+         y="163.44968"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:40.0000006%;font-family:'Courier New';-inkscape-font-specification:'Courier New';text-align:start;text-anchor:start;fill:#0000ff;stroke-width:0.26458332px"
          id="tspan1292">зарезервировано 20 байт</tspan></text>
   </g>
